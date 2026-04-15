@@ -1,0 +1,5002 @@
+{
+  "city": "Whitby",
+  "city_slug": "whitby-on",
+  "scraped_at": "2026-04-15T02:28:54.517Z",
+  "neighbourhood_count": 11,
+  "neighbourhoods": [
+    {
+      "slug": "blue-grass-meadows",
+      "city": "whitby-on",
+      "name": "Blue Grass Meadows",
+      "description": "Neighbourhood Vibe Blue Grass Meadows is a peaceful neighbourhood with a strong sense of community.",
+      "schools": {
+        "public": 10,
+        "catholic": 5,
+        "private": null,
+        "special_programs": null
+      },
+      "parks": {
+        "count": 14,
+        "recreational_facilities": 39,
+        "avg_facilities_per_park": null
+      },
+      "transit": {
+        "stops": 133
+      },
+      "demographics": {
+        "families_with_kids_pct": 47,
+        "couples_no_kids_pct": 29,
+        "one_person_household_pct": null
+      },
+      "education": {
+        "bachelors_or_higher_pct": 26,
+        "any_postsecondary_pct": 67
+      },
+      "housing": {
+        "moved_within_5yr_pct": 29,
+        "moved_within_1yr_pct": 9
+      },
+      "homes": {
+        "summary": "In this neighbourhood, there are mostly detached homes. Blue Grass Meadows has a consistent population, with 29% of households having moved within the past 5 years and 9% having moved within the past year. It has a mix of older and newer homes and is mostly owner-occupied.",
+        "home_types_pct": {
+          "single_detached_house": 78,
+          "semi_detached_house": 0,
+          "duplex": 5,
+          "row_house": 6,
+          "low_rise_apartment_condo": 0,
+          "high_rise_apartment_condo": 9
+        },
+        "condominium_status_pct": {
+          "condominium": 7,
+          "not_condominium": 92
+        },
+        "bedrooms_pct": {
+          "1_bedroom": 6,
+          "2_bedrooms": 6,
+          "3_bedrooms": 38,
+          "no_bedrooms": 0,
+          "4_or_more_bedrooms": 48
+        },
+        "construction_period_pct": {
+          "1961_to_1980": 23,
+          "1981_to_1990": 49,
+          "1991_to_2000": 10,
+          "2001_to_2005": 2,
+          "2006_to_2010": 0,
+          "2011_to_2016": 4,
+          "1960_or_before": 9
+        },
+        "tenure_pct": null,
+        "mostly_older_homes": null,
+        "mostly_renter_occupied": null
+      },
+      "sections": {
+        "household_size": {
+          "heading": "Household Size",
+          "items": [
+            "1 person - 18%",
+            "2 persons - 33%",
+            "3 persons - 18%",
+            "4 persons - 17%",
+            "5 or more persons - 11%"
+          ],
+          "values": {
+            "1_person": 18,
+            "2_persons": 33,
+            "3_persons": 18,
+            "4_persons": 17,
+            "5_or_more_persons": 11
+          }
+        },
+        "household_types": {
+          "heading": "Household Types",
+          "items": [
+            "One-person households - 18%",
+            "Non-family households - 1%",
+            "Families with children - 47%",
+            "Couples without children - 28%",
+            "Multiple families in household - 3%"
+          ],
+          "values": {
+            "one_person_households": 18,
+            "non_family_households": 1,
+            "families_with_children": 47,
+            "couples_without_children": 28,
+            "multiple_families_in_household": 3
+          }
+        },
+        "children_per_family": {
+          "heading": "Children Per Family",
+          "items": [
+            "1 child - 27%",
+            "2 children - 23%",
+            "3 or more children - 10%"
+          ],
+          "values": {
+            "1_child": 27,
+            "2_children": 23,
+            "3_or_more_children": 10
+          }
+        },
+        "broad_age_ranges": {
+          "heading": "Broad Age Ranges",
+          "items": [
+            "0 to 14 years - 14%",
+            "15 to 64 years - 66%",
+            "65 years and over - 19%"
+          ],
+          "values": {
+            "0_to_14_years": 14,
+            "15_to_64_years": 66,
+            "65_years_and_over": 19
+          }
+        },
+        "most_common_ethnic_origins": {
+          "heading": "Most Common Ethnic Origins",
+          "items": [
+            "Canadian - 27%",
+            "English - 27%",
+            "Scottish - 22%",
+            "Irish - 20%",
+            "French - 9%"
+          ],
+          "values": {
+            "canadian": 27,
+            "english": 27,
+            "scottish": 22,
+            "irish": 20,
+            "french": 9
+          }
+        },
+        "age_of_primary_household_maintainer": {
+          "heading": "Age of Primary Household Maintainer",
+          "items": [
+            "15 to 24 years - 0%",
+            "25 to 34 years - 8%",
+            "35 to 44 years - 14%",
+            "45 to 54 years - 21%",
+            "55 to 64 years - 21%",
+            "65 to 74 years - 17%",
+            "75 to 84 years - 10%",
+            "85 years and over - 4%"
+          ],
+          "values": {
+            "15_to_24_years": 0,
+            "25_to_34_years": 8,
+            "35_to_44_years": 14,
+            "45_to_54_years": 21,
+            "55_to_64_years": 21,
+            "65_to_74_years": 17,
+            "75_to_84_years": 10,
+            "85_years_and_over": 4
+          }
+        },
+        "specific_age_groups": {
+          "heading": "Specific Age Groups",
+          "items": [
+            "0 to 4 years - 4%",
+            "5 to 9 years - 4%",
+            "10 to 14 years - 4%",
+            "15 to 19 years - 6%",
+            "20 to 29 years - 12%",
+            "30 to 39 years - 10%",
+            "40 to 49 years - 11%",
+            "50 to 59 years - 17%",
+            "60 to 69 years - 12%",
+            "over 70 years - 11%"
+          ],
+          "values": {
+            "0_to_4_years": 4,
+            "5_to_9_years": 4,
+            "10_to_14_years": 4,
+            "15_to_19_years": 6,
+            "20_to_29_years": 12,
+            "30_to_39_years": 10,
+            "40_to_49_years": 11,
+            "50_to_59_years": 17,
+            "60_to_69_years": 12,
+            "over_70_years": 11
+          }
+        },
+        "public": {
+          "heading": "Public",
+          "items": [
+            "Henry Street HS",
+            "Pringle Creek PS",
+            "Anderson CVI",
+            "Sir William Stephenson PS",
+            "Bellwood PS",
+            "Dr. Robert Thornton PS",
+            "ÉS Ronald-Marion",
+            "Julie Payette PS",
+            "É Élém Antonine Maillet",
+            "CE Broughton PS"
+          ],
+          "values": null
+        },
+        "catholic": {
+          "heading": "Catholic",
+          "items": [
+            "St. Paul Catholic School",
+            "Father Leo J. Austin Catholic SS",
+            "St. Theresa Catholic School",
+            "ÉÉC Jean-Paul II",
+            "ÉSC Saint-Charles-Garnier"
+          ],
+          "values": null
+        },
+        "recreation_facilities_in_neighbourhood_parks": {
+          "heading": "Recreation Facilities in Neighbourhood Parks",
+          "items": [
+            "Playgrounds - 11",
+            "Rink - 1",
+            "Tennis Courts - 4",
+            "Basketball Courts - 7",
+            "Ball Diamonds - 4",
+            "Sports Fields - 6",
+            "Splash Pad - 1",
+            "Sports Courts - 2",
+            "Trails - 3"
+          ],
+          "values": {
+            "playgrounds": 11,
+            "rink": 1,
+            "tennis_courts": 4,
+            "basketball_courts": 7,
+            "ball_diamonds": 4,
+            "sports_fields": 6,
+            "splash_pad": 1,
+            "sports_courts": 2,
+            "trails": 3
+          }
+        },
+        "commute_destination_for_residents": {
+          "heading": "Commute Destination for Residents",
+          "items": [
+            "Commute within the city - 29%",
+            "Commute to another city - 69%"
+          ],
+          "values": {
+            "commute_within_the_city": 29,
+            "commute_to_another_city": 69
+          }
+        },
+        "commute_types": {
+          "heading": "Commute Types",
+          "items": [
+            "Vehicle - 85%",
+            "Transit - 10%",
+            "Walk/bike - 3%"
+          ],
+          "values": {
+            "vehicle": 85,
+            "transit": 10,
+            "walk_bike": 3
+          }
+        },
+        "commute_times_of_residents": {
+          "heading": "Commute Times of Residents",
+          "items": [
+            "15 to 29 minutes - 25%",
+            "30 to 44 minutes - 12%",
+            "45 to 59 minutes - 10%",
+            "60 minutes and over - 23%",
+            "Less than 15 minutes - 27%"
+          ],
+          "values": {
+            "15_to_29_minutes": 25,
+            "30_to_44_minutes": 12,
+            "45_to_59_minutes": 10,
+            "60_minutes_and_over": 23,
+            "less_than_15_minutes": 27
+          }
+        },
+        "household_income": {
+          "heading": "Household Income",
+          "items": [
+            "Under $30,000 - 6%",
+            "$30,000 to $39,999 - 4%",
+            "$40,000 to $49,999 - 6%",
+            "$50,000 to $59,999 - 6%",
+            "$60,000 to $69,999 - 5%",
+            "$70,000 to $79,999 - 6%",
+            "$80,000 to $89,999 - 5%",
+            "$90,000 to $99,999 - 6%",
+            "$100,000 to $124,999 - 13%",
+            "$125,000 to $149,999 - 11%",
+            "$150,000 to $199,999 - 13%",
+            "$200,000 and over - 11%"
+          ],
+          "values": {
+            "under_30_000": 6,
+            "30_000_to_39_999": 4,
+            "40_000_to_49_999": 6,
+            "50_000_to_59_999": 6,
+            "60_000_to_69_999": 5,
+            "70_000_to_79_999": 6,
+            "80_000_to_89_999": 5,
+            "90_000_to_99_999": 6,
+            "100_000_to_124_999": 13,
+            "125_000_to_149_999": 11,
+            "150_000_to_199_999": 13,
+            "200_000_and_over": 11
+          }
+        },
+        "most_common_occupations_top_3": {
+          "heading": "Most Common Occupations (Top 3)",
+          "items": [
+            "Sales and service occupations - 25%",
+            "Business, finance and administration occupations - 15%",
+            "Trades, transport and equipment operators and related occupations - 14%"
+          ],
+          "values": {
+            "sales_and_service_occupations": 25,
+            "business_finance_and_administration_occupations": 15,
+            "trades_transport_and_equipment_operators_and_related_occupations": 14
+          }
+        },
+        "most_common_industries_top_3": {
+          "heading": "Most Common Industries (Top 3)",
+          "items": [
+            "Retail trade - 13%",
+            "Health care and social assistance - 10%",
+            "Construction - 9%"
+          ],
+          "values": {
+            "retail_trade": 13,
+            "health_care_and_social_assistance": 10,
+            "construction": 9
+          }
+        },
+        "employment": {
+          "heading": "Employment",
+          "items": [
+            "Employed - 59% of people over age 15 are employed",
+            "Unemployed - 4% are unemployed",
+            "Not in the labour force - 35% are retired, students, homemakers, etc."
+          ],
+          "values": null
+        },
+        "home_types": {
+          "heading": "Home Types",
+          "items": [
+            "Single-detached house - 78%",
+            "Semi-detached house - 0%",
+            "Duplex - 5%",
+            "Row house - 6%",
+            "Low-rise apartment/condo - 0%",
+            "High-rise apartment/condo - 9%"
+          ],
+          "values": {
+            "single_detached_house": 78,
+            "semi_detached_house": 0,
+            "duplex": 5,
+            "row_house": 6,
+            "low_rise_apartment_condo": 0,
+            "high_rise_apartment_condo": 9
+          }
+        },
+        "condominium_status": {
+          "heading": "Condominium Status",
+          "items": [
+            "Condominium - 7%",
+            "Not condominium - 92%"
+          ],
+          "values": {
+            "condominium": 7,
+            "not_condominium": 92
+          }
+        },
+        "number_of_bedrooms_in_homes": {
+          "heading": "Number of Bedrooms in Homes",
+          "items": [
+            "1 bedroom - 6%",
+            "2 bedrooms - 6%",
+            "3 bedrooms - 38%",
+            "No bedrooms - 0%",
+            "4 or more bedrooms - 48%"
+          ],
+          "values": {
+            "1_bedroom": 6,
+            "2_bedrooms": 6,
+            "3_bedrooms": 38,
+            "no_bedrooms": 0,
+            "4_or_more_bedrooms": 48
+          }
+        },
+        "period_of_home_construction": {
+          "heading": "Period of Home Construction",
+          "items": [
+            "1961 to 1980 - 23%",
+            "1981 to 1990 - 49%",
+            "1991 to 2000 - 10%",
+            "2001 to 2005 - 2%",
+            "2006 to 2010 - 0%",
+            "2011 to 2016 - 4%",
+            "1960 or before - 9%"
+          ],
+          "values": {
+            "1961_to_1980": 23,
+            "1981_to_1990": 49,
+            "1991_to_2000": 10,
+            "2001_to_2005": 2,
+            "2006_to_2010": 0,
+            "2011_to_2016": 4,
+            "1960_or_before": 9
+          }
+        },
+        "renters_and_owners": {
+          "heading": "Renters & Owners",
+          "items": [
+            "Owner - 84%",
+            "Renter - 15%"
+          ],
+          "values": {
+            "owner": 84,
+            "renter": 15
+          }
+        }
+      },
+      "section_summaries": {
+        "people": "Families with kids make up 47% of households in this neighbourhood, while couples without children make up 29% of households and 19% of households are one person living alone. People in this neighbourhood come from 112 different ethnic origins, and 25% are first-generation immigrants, while 26% are second-generation immigrants.",
+        "schools": "Blue Grass Meadows has great elementary schools, great secondary schools, elementary special programs, and secondary special programs. There are 10 public schools and 5 Catholic schools serving Blue Grass Meadows. The special programs offered at local schools include Advanced Placement, French Immersion, and International Baccalaureate.",
+        "parks": "Fun is easy to find at the many parks & rec facilities here. Parks in Blue Grass Meadows feature playgrounds for kids, sports parks, and skating. There are 14 parks in this neighbourhood, with 39 recreational facilities in total. The average number of facilities per park is 2.",
+        "homes": "In this neighbourhood, there are mostly detached homes. Blue Grass Meadows has a consistent population, with 29% of households having moved within the past 5 years and 9% having moved within the past year. It has a mix of older and newer homes and is mostly owner-occupied."
+      },
+      "popular_with": [
+        "people in their 20s, people in their 40s, people in their 50s, and people in their 60s",
+        "kids",
+        "20s",
+        "40s",
+        "50s",
+        "60s"
+      ],
+      "scraped_at": "2026-04-15T02:28:44.815Z"
+    },
+    {
+      "slug": "brooklin",
+      "city": "whitby-on",
+      "name": "Brooklin",
+      "description": "Neighbourhood Vibe A charming and family-friendly neighbourhood with a rural feel and vibrant downtown area.",
+      "schools": {
+        "public": 8,
+        "catholic": 6,
+        "private": 1,
+        "special_programs": null
+      },
+      "parks": {
+        "count": null,
+        "recreational_facilities": 59,
+        "avg_facilities_per_park": null
+      },
+      "transit": {
+        "stops": 54
+      },
+      "demographics": {
+        "families_with_kids_pct": 67,
+        "couples_no_kids_pct": 20,
+        "one_person_household_pct": null
+      },
+      "education": {
+        "bachelors_or_higher_pct": 37,
+        "any_postsecondary_pct": 76
+      },
+      "housing": {
+        "moved_within_5yr_pct": 37,
+        "moved_within_1yr_pct": 8
+      },
+      "homes": {
+        "summary": "In this neighbourhood, there are mostly detached homes. This neighbourhood has a consistent population, with 37% of households having moved within the past 5 years and 8% having moved within the past year. It has a mix of older and newer homes and is mostly owner-occupied.",
+        "home_types_pct": {
+          "single_detached_house": 86,
+          "semi_detached_house": 0,
+          "duplex": 0,
+          "row_house": 10,
+          "low_rise_apartment_condo": 1,
+          "high_rise_apartment_condo": 0
+        },
+        "condominium_status_pct": {
+          "condominium": 3,
+          "not_condominium": 96
+        },
+        "bedrooms_pct": {
+          "1_bedroom": 1,
+          "2_bedrooms": 5,
+          "3_bedrooms": 37,
+          "no_bedrooms": 0,
+          "4_or_more_bedrooms": 55
+        },
+        "construction_period_pct": {
+          "1961_to_1980": 2,
+          "1981_to_1990": 1,
+          "1991_to_2000": 20,
+          "2001_to_2005": 35,
+          "2006_to_2010": 22,
+          "2011_to_2016": 13,
+          "1960_or_before": 5
+        },
+        "tenure_pct": null,
+        "mostly_older_homes": null,
+        "mostly_renter_occupied": null
+      },
+      "sections": {
+        "household_size": {
+          "heading": "Household Size",
+          "items": [
+            "1 person - 9%",
+            "2 persons - 23%",
+            "3 persons - 18%",
+            "4 persons - 31%",
+            "5 or more persons - 16%"
+          ],
+          "values": {
+            "1_person": 9,
+            "2_persons": 23,
+            "3_persons": 18,
+            "4_persons": 31,
+            "5_or_more_persons": 16
+          }
+        },
+        "household_types": {
+          "heading": "Household Types",
+          "items": [
+            "One-person households - 9%",
+            "Non-family households - 0%",
+            "Families with children - 66%",
+            "Couples without children - 19%",
+            "Multiple families in household - 2%"
+          ],
+          "values": {
+            "one_person_households": 9,
+            "non_family_households": 0,
+            "families_with_children": 66,
+            "couples_without_children": 19,
+            "multiple_families_in_household": 2
+          }
+        },
+        "children_per_family": {
+          "heading": "Children Per Family",
+          "items": [
+            "1 child - 22%",
+            "2 children - 40%",
+            "3 or more children - 14%"
+          ],
+          "values": {
+            "1_child": 22,
+            "2_children": 40,
+            "3_or_more_children": 14
+          }
+        },
+        "broad_age_ranges": {
+          "heading": "Broad Age Ranges",
+          "items": [
+            "0 to 14 years - 28%",
+            "15 to 64 years - 63%",
+            "65 years and over - 7%"
+          ],
+          "values": {
+            "0_to_14_years": 28,
+            "15_to_64_years": 63,
+            "65_years_and_over": 7
+          }
+        },
+        "most_common_ethnic_origins": {
+          "heading": "Most Common Ethnic Origins",
+          "items": [
+            "English - 34%",
+            "Canadian - 31%",
+            "Scottish - 27%",
+            "Irish - 25%",
+            "German - 9%"
+          ],
+          "values": {
+            "english": 34,
+            "canadian": 31,
+            "scottish": 27,
+            "irish": 25,
+            "german": 9
+          }
+        },
+        "age_of_primary_household_maintainer": {
+          "heading": "Age of Primary Household Maintainer",
+          "items": [
+            "15 to 24 years - 0%",
+            "25 to 34 years - 10%",
+            "35 to 44 years - 33%",
+            "45 to 54 years - 27%",
+            "55 to 64 years - 13%",
+            "65 to 74 years - 9%",
+            "75 to 84 years - 4%",
+            "85 years and over - 1%"
+          ],
+          "values": {
+            "15_to_24_years": 0,
+            "25_to_34_years": 10,
+            "35_to_44_years": 33,
+            "45_to_54_years": 27,
+            "55_to_64_years": 13,
+            "65_to_74_years": 9,
+            "75_to_84_years": 4,
+            "85_years_and_over": 1
+          }
+        },
+        "specific_age_groups": {
+          "heading": "Specific Age Groups",
+          "items": [
+            "0 to 4 years - 7%",
+            "5 to 9 years - 10%",
+            "10 to 14 years - 10%",
+            "15 to 19 years - 7%",
+            "20 to 29 years - 6%",
+            "30 to 39 years - 14%",
+            "40 to 49 years - 19%",
+            "50 to 59 years - 10%",
+            "60 to 69 years - 5%",
+            "over 70 years - 3%"
+          ],
+          "values": {
+            "0_to_4_years": 7,
+            "5_to_9_years": 10,
+            "10_to_14_years": 10,
+            "15_to_19_years": 7,
+            "20_to_29_years": 6,
+            "30_to_39_years": 14,
+            "40_to_49_years": 19,
+            "50_to_59_years": 10,
+            "60_to_69_years": 5,
+            "over_70_years": 3
+          }
+        },
+        "public": {
+          "heading": "Public",
+          "items": [
+            "Brooklin HS",
+            "Chris Hadfield PS",
+            "Winchester PS",
+            "Brooklin Village PS",
+            "Meadowcrest PS",
+            "ÉS Ronald-Marion",
+            "É Élém Antonine Maillet",
+            "Blair Ridge Public School"
+          ],
+          "values": null
+        },
+        "catholic": {
+          "heading": "Catholic",
+          "items": [
+            "St. Leo Catholic School",
+            "St. John Paul II Catholic School",
+            "St. Bridget Catholic School",
+            "All Saints Catholic SS",
+            "ÉÉC Jean-Paul II",
+            "ÉSC Saint-Charles-Garnier"
+          ],
+          "values": null
+        },
+        "private": {
+          "heading": "Private",
+          "items": [
+            "Brooklin Mill Montessori School"
+          ],
+          "values": null
+        },
+        "recreation_facilities_in_neighbourhood_parks": {
+          "heading": "Recreation Facilities in Neighbourhood Parks",
+          "items": [
+            "Playgrounds - 9",
+            "Arena - 1",
+            "Rink - 1",
+            "Tennis Courts - 2",
+            "Basketball Courts - 7",
+            "Ball Diamonds - 8",
+            "Sports Fields - 12",
+            "Community Centres - 4",
+            "Splash Pads - 2",
+            "Skateboard Park - 1",
+            "Sports Courts - 7",
+            "Botanical Garden - 1",
+            "Trails - 2",
+            "Fitness/Weight Room - 1",
+            "Gym - 1"
+          ],
+          "values": {
+            "playgrounds": 9,
+            "arena": 1,
+            "rink": 1,
+            "tennis_courts": 2,
+            "basketball_courts": 7,
+            "ball_diamonds": 8,
+            "sports_fields": 12,
+            "community_centres": 4,
+            "splash_pads": 2,
+            "skateboard_park": 1,
+            "sports_courts": 7,
+            "botanical_garden": 1,
+            "trails": 2,
+            "fitness_weight_room": 1,
+            "gym": 1
+          }
+        },
+        "commute_destination_for_residents": {
+          "heading": "Commute Destination for Residents",
+          "items": [
+            "Commute within the city - 23%",
+            "Commute to another city - 75%"
+          ],
+          "values": {
+            "commute_within_the_city": 23,
+            "commute_to_another_city": 75
+          }
+        },
+        "commute_types": {
+          "heading": "Commute Types",
+          "items": [
+            "Vehicle - 88%",
+            "Transit - 8%",
+            "Walk/bike - 2%"
+          ],
+          "values": {
+            "vehicle": 88,
+            "transit": 8,
+            "walk_bike": 2
+          }
+        },
+        "commute_times_of_residents": {
+          "heading": "Commute Times of Residents",
+          "items": [
+            "15 to 29 minutes - 25%",
+            "30 to 44 minutes - 20%",
+            "45 to 59 minutes - 14%",
+            "60 minutes and over - 25%",
+            "Less than 15 minutes - 12%"
+          ],
+          "values": {
+            "15_to_29_minutes": 25,
+            "30_to_44_minutes": 20,
+            "45_to_59_minutes": 14,
+            "60_minutes_and_over": 25,
+            "less_than_15_minutes": 12
+          }
+        },
+        "household_income": {
+          "heading": "Household Income",
+          "items": [
+            "Under $30,000 - 1%",
+            "$30,000 to $39,999 - 2%",
+            "$40,000 to $49,999 - 3%",
+            "$50,000 to $59,999 - 3%",
+            "$60,000 to $69,999 - 3%",
+            "$70,000 to $79,999 - 4%",
+            "$80,000 to $89,999 - 4%",
+            "$90,000 to $99,999 - 5%",
+            "$100,000 to $124,999 - 14%",
+            "$125,000 to $149,999 - 13%",
+            "$150,000 to $199,999 - 20%",
+            "$200,000 and over - 19%"
+          ],
+          "values": {
+            "under_30_000": 1,
+            "30_000_to_39_999": 2,
+            "40_000_to_49_999": 3,
+            "50_000_to_59_999": 3,
+            "60_000_to_69_999": 3,
+            "70_000_to_79_999": 4,
+            "80_000_to_89_999": 4,
+            "90_000_to_99_999": 5,
+            "100_000_to_124_999": 14,
+            "125_000_to_149_999": 13,
+            "150_000_to_199_999": 20,
+            "200_000_and_over": 19
+          }
+        },
+        "most_common_occupations_top_3": {
+          "heading": "Most Common Occupations (Top 3)",
+          "items": [
+            "Sales and service occupations - 19%",
+            "Business, finance and administration occupations - 17%",
+            "Management occupations - 17%"
+          ],
+          "values": {
+            "sales_and_service_occupations": 19,
+            "business_finance_and_administration_occupations": 17,
+            "management_occupations": 17
+          }
+        },
+        "most_common_industries_top_3": {
+          "heading": "Most Common Industries (Top 3)",
+          "items": [
+            "Educational services - 11%",
+            "Professional, scientific and technical services - 9%",
+            "Health care and social assistance - 9%"
+          ],
+          "values": {
+            "educational_services": 11,
+            "professional_scientific_and_technical_services": 9,
+            "health_care_and_social_assistance": 9
+          }
+        },
+        "employment": {
+          "heading": "Employment",
+          "items": [
+            "Employed - 70% of people over age 15 are employed",
+            "Unemployed - 3% are unemployed",
+            "Not in the labour force - 25% are retired, students, homemakers, etc."
+          ],
+          "values": null
+        },
+        "home_types": {
+          "heading": "Home Types",
+          "items": [
+            "Single-detached house - 86%",
+            "Semi-detached house - 0%",
+            "Duplex - 0%",
+            "Row house - 10%",
+            "Low-rise apartment/condo - 1%",
+            "High-rise apartment/condo - 0%"
+          ],
+          "values": {
+            "single_detached_house": 86,
+            "semi_detached_house": 0,
+            "duplex": 0,
+            "row_house": 10,
+            "low_rise_apartment_condo": 1,
+            "high_rise_apartment_condo": 0
+          }
+        },
+        "condominium_status": {
+          "heading": "Condominium Status",
+          "items": [
+            "Condominium - 3%",
+            "Not condominium - 96%"
+          ],
+          "values": {
+            "condominium": 3,
+            "not_condominium": 96
+          }
+        },
+        "number_of_bedrooms_in_homes": {
+          "heading": "Number of Bedrooms in Homes",
+          "items": [
+            "1 bedroom - 1%",
+            "2 bedrooms - 5%",
+            "3 bedrooms - 37%",
+            "No bedrooms - 0%",
+            "4 or more bedrooms - 55%"
+          ],
+          "values": {
+            "1_bedroom": 1,
+            "2_bedrooms": 5,
+            "3_bedrooms": 37,
+            "no_bedrooms": 0,
+            "4_or_more_bedrooms": 55
+          }
+        },
+        "period_of_home_construction": {
+          "heading": "Period of Home Construction",
+          "items": [
+            "1961 to 1980 - 2%",
+            "1981 to 1990 - 1%",
+            "1991 to 2000 - 20%",
+            "2001 to 2005 - 35%",
+            "2006 to 2010 - 22%",
+            "2011 to 2016 - 13%",
+            "1960 or before - 5%"
+          ],
+          "values": {
+            "1961_to_1980": 2,
+            "1981_to_1990": 1,
+            "1991_to_2000": 20,
+            "2001_to_2005": 35,
+            "2006_to_2010": 22,
+            "2011_to_2016": 13,
+            "1960_or_before": 5
+          }
+        },
+        "renters_and_owners": {
+          "heading": "Renters & Owners",
+          "items": [
+            "Owner - 95%",
+            "Renter - 3%"
+          ],
+          "values": {
+            "owner": 95,
+            "renter": 3
+          }
+        }
+      },
+      "section_summaries": {
+        "people": "Families with kids make up 67% of households in Brooklin, while couples without children make up 20% of households and 10% of households are one person living alone. People in this neighbourhood come from 122 different ethnic origins, and 14% are first-generation immigrants, while 27% are second-generation immigrants.",
+        "schools": "This neighbourhood has great elementary schools, great secondary schools, elementary special programs, and secondary special programs. There are 8 public schools, 6 Catholic schools, and 1 private school serving this neighbourhood. The special programs offered at local schools include French Immersion, Montessori, Advanced Placement, and International Baccalaureate.",
+        "parks": "Fun is easy to find at the many parks & rec facilities here. Parks in this neighbourhood feature playgrounds for kids, sports parks, and skating. There are 16 parks in Brooklin, with 59 recreational facilities in total. The average number of facilities per park is 3.",
+        "homes": "In this neighbourhood, there are mostly detached homes. This neighbourhood has a consistent population, with 37% of households having moved within the past 5 years and 8% having moved within the past year. It has a mix of older and newer homes and is mostly owner-occupied."
+      },
+      "popular_with": [
+        "families with kids under 5, families with kids aged 5 to 9, families with teens, people in their 30s, and people in their 40s",
+        "kids",
+        "teens",
+        "30s",
+        "40s"
+      ],
+      "scraped_at": "2026-04-15T02:28:46.019Z"
+    },
+    {
+      "slug": "downtown-whitby",
+      "city": "whitby-on",
+      "name": "Downtown Whitby",
+      "description": "Neighbourhood Vibe Downtown Whitby is a historic and vibrant neighbourhood with many community destinations.",
+      "schools": {
+        "public": 10,
+        "catholic": 7,
+        "private": 3,
+        "special_programs": null
+      },
+      "parks": {
+        "count": 10,
+        "recreational_facilities": 37,
+        "avg_facilities_per_park": null
+      },
+      "transit": {
+        "stops": 73
+      },
+      "demographics": {
+        "families_with_kids_pct": 33,
+        "couples_no_kids_pct": 23,
+        "one_person_household_pct": null
+      },
+      "education": {
+        "bachelors_or_higher_pct": 21,
+        "any_postsecondary_pct": 61
+      },
+      "housing": {
+        "moved_within_5yr_pct": 37,
+        "moved_within_1yr_pct": 12
+      },
+      "homes": {
+        "summary": "In this neighbourhood, there are a mix of home types. This neighbourhood has a consistent population, with 37% of households having moved within the past 5 years and 12% having moved within the past year. It has mostly older homes and is a mix of owner and renter-occupied.",
+        "home_types_pct": {
+          "single_detached_house": 44,
+          "semi_detached_house": 4,
+          "duplex": 4,
+          "row_house": 4,
+          "low_rise_apartment_condo": 24,
+          "high_rise_apartment_condo": 17
+        },
+        "condominium_status_pct": {
+          "condominium": 2,
+          "not_condominium": 97
+        },
+        "bedrooms_pct": {
+          "1_bedroom": 24,
+          "2_bedrooms": 23,
+          "3_bedrooms": 31,
+          "no_bedrooms": 0,
+          "4_or_more_bedrooms": 20
+        },
+        "construction_period_pct": {
+          "1961_to_1980": 33,
+          "1981_to_1990": 11,
+          "1991_to_2000": 12,
+          "2001_to_2005": 2,
+          "2006_to_2010": 1,
+          "2011_to_2016": 2,
+          "1960_or_before": 35
+        },
+        "tenure_pct": null,
+        "mostly_older_homes": true,
+        "mostly_renter_occupied": null
+      },
+      "sections": {
+        "household_size": {
+          "heading": "Household Size",
+          "items": [
+            "1 person - 38%",
+            "2 persons - 32%",
+            "3 persons - 13%",
+            "4 persons - 10%",
+            "5 or more persons - 4%"
+          ],
+          "values": {
+            "1_person": 38,
+            "2_persons": 32,
+            "3_persons": 13,
+            "4_persons": 10,
+            "5_or_more_persons": 4
+          }
+        },
+        "household_types": {
+          "heading": "Household Types",
+          "items": [
+            "One-person households - 38%",
+            "Non-family households - 3%",
+            "Families with children - 32%",
+            "Couples without children - 22%",
+            "Multiple families in household - 1%"
+          ],
+          "values": {
+            "one_person_households": 38,
+            "non_family_households": 3,
+            "families_with_children": 32,
+            "couples_without_children": 22,
+            "multiple_families_in_household": 1
+          }
+        },
+        "children_per_family": {
+          "heading": "Children Per Family",
+          "items": [
+            "1 child - 31%",
+            "2 children - 20%",
+            "3 or more children - 6%"
+          ],
+          "values": {
+            "1_child": 31,
+            "2_children": 20,
+            "3_or_more_children": 6
+          }
+        },
+        "broad_age_ranges": {
+          "heading": "Broad Age Ranges",
+          "items": [
+            "0 to 14 years - 12%",
+            "15 to 64 years - 65%",
+            "65 years and over - 22%"
+          ],
+          "values": {
+            "0_to_14_years": 12,
+            "15_to_64_years": 65,
+            "65_years_and_over": 22
+          }
+        },
+        "most_common_ethnic_origins": {
+          "heading": "Most Common Ethnic Origins",
+          "items": [
+            "English - 35%",
+            "Canadian - 30%",
+            "Scottish - 27%",
+            "Irish - 26%",
+            "German - 10%"
+          ],
+          "values": {
+            "english": 35,
+            "canadian": 30,
+            "scottish": 27,
+            "irish": 26,
+            "german": 10
+          }
+        },
+        "age_of_primary_household_maintainer": {
+          "heading": "Age of Primary Household Maintainer",
+          "items": [
+            "15 to 24 years - 1%",
+            "25 to 34 years - 11%",
+            "35 to 44 years - 11%",
+            "45 to 54 years - 20%",
+            "55 to 64 years - 22%",
+            "65 to 74 years - 15%",
+            "75 to 84 years - 11%",
+            "85 years and over - 4%"
+          ],
+          "values": {
+            "15_to_24_years": 1,
+            "25_to_34_years": 11,
+            "35_to_44_years": 11,
+            "45_to_54_years": 20,
+            "55_to_64_years": 22,
+            "65_to_74_years": 15,
+            "75_to_84_years": 11,
+            "85_years_and_over": 4
+          }
+        },
+        "specific_age_groups": {
+          "heading": "Specific Age Groups",
+          "items": [
+            "0 to 4 years - 3%",
+            "5 to 9 years - 4%",
+            "10 to 14 years - 3%",
+            "15 to 19 years - 4%",
+            "20 to 29 years - 12%",
+            "30 to 39 years - 10%",
+            "40 to 49 years - 12%",
+            "50 to 59 years - 16%",
+            "60 to 69 years - 13%",
+            "over 70 years - 15%"
+          ],
+          "values": {
+            "0_to_4_years": 3,
+            "5_to_9_years": 4,
+            "10_to_14_years": 3,
+            "15_to_19_years": 4,
+            "20_to_29_years": 12,
+            "30_to_39_years": 10,
+            "40_to_49_years": 12,
+            "50_to_59_years": 16,
+            "60_to_69_years": 13,
+            "over_70_years": 15
+          }
+        },
+        "public": {
+          "heading": "Public",
+          "items": [
+            "Henry Street HS",
+            "Pringle Creek PS",
+            "West Lynde PS",
+            "Anderson CVI",
+            "Sir William Stephenson PS",
+            "EA Fairman PS",
+            "ÉS Ronald-Marion",
+            "Julie Payette PS",
+            "É Élém Antonine Maillet",
+            "CE Broughton PS"
+          ],
+          "values": null
+        },
+        "catholic": {
+          "heading": "Catholic",
+          "items": [
+            "Father Leo J. Austin Catholic SS",
+            "St. Theresa Catholic School",
+            "St. Marguerite d'Youville Catholic School",
+            "St. John the Evangelist Catholic School",
+            "All Saints Catholic SS",
+            "ÉÉC Jean-Paul II",
+            "ÉSC Saint-Charles-Garnier"
+          ],
+          "values": null
+        },
+        "private": {
+          "heading": "Private",
+          "items": [
+            "Trafalgar Castle School",
+            "Blyth Academy - Whitby",
+            "Hatch House Montessori"
+          ],
+          "values": null
+        },
+        "recreation_facilities_in_neighbourhood_parks": {
+          "heading": "Recreation Facilities in Neighbourhood Parks",
+          "items": [
+            "Playgrounds - 8",
+            "Rink - 1",
+            "Tennis Courts - 5",
+            "Basketball Courts - 4",
+            "Ball Diamonds - 7",
+            "Sports Fields - 3",
+            "Community Centre - 1",
+            "Splash Pads - 3",
+            "Sports Courts - 2",
+            "Trails - 2",
+            "Arts/Performance Facility - 1"
+          ],
+          "values": {
+            "playgrounds": 8,
+            "rink": 1,
+            "tennis_courts": 5,
+            "basketball_courts": 4,
+            "ball_diamonds": 7,
+            "sports_fields": 3,
+            "community_centre": 1,
+            "splash_pads": 3,
+            "sports_courts": 2,
+            "trails": 2,
+            "arts_performance_facility": 1
+          }
+        },
+        "commute_destination_for_residents": {
+          "heading": "Commute Destination for Residents",
+          "items": [
+            "Commute within the city - 32%",
+            "Commute to another city - 67%"
+          ],
+          "values": {
+            "commute_within_the_city": 32,
+            "commute_to_another_city": 67
+          }
+        },
+        "commute_types": {
+          "heading": "Commute Types",
+          "items": [
+            "Vehicle - 79%",
+            "Transit - 14%",
+            "Walk/bike - 3%"
+          ],
+          "values": {
+            "vehicle": 79,
+            "transit": 14,
+            "walk_bike": 3
+          }
+        },
+        "commute_times_of_residents": {
+          "heading": "Commute Times of Residents",
+          "items": [
+            "15 to 29 minutes - 26%",
+            "30 to 44 minutes - 14%",
+            "45 to 59 minutes - 9%",
+            "60 minutes and over - 21%",
+            "Less than 15 minutes - 28%"
+          ],
+          "values": {
+            "15_to_29_minutes": 26,
+            "30_to_44_minutes": 14,
+            "45_to_59_minutes": 9,
+            "60_minutes_and_over": 21,
+            "less_than_15_minutes": 28
+          }
+        },
+        "household_income": {
+          "heading": "Household Income",
+          "items": [
+            "Under $30,000 - 22%",
+            "$30,000 to $39,999 - 7%",
+            "$40,000 to $49,999 - 8%",
+            "$50,000 to $59,999 - 7%",
+            "$60,000 to $69,999 - 6%",
+            "$70,000 to $79,999 - 5%",
+            "$80,000 to $89,999 - 5%",
+            "$90,000 to $99,999 - 4%",
+            "$100,000 to $124,999 - 8%",
+            "$125,000 to $149,999 - 6%",
+            "$150,000 to $199,999 - 7%",
+            "$200,000 and over - 4%"
+          ],
+          "values": {
+            "under_30_000": 22,
+            "30_000_to_39_999": 7,
+            "40_000_to_49_999": 8,
+            "50_000_to_59_999": 7,
+            "60_000_to_69_999": 6,
+            "70_000_to_79_999": 5,
+            "80_000_to_89_999": 5,
+            "90_000_to_99_999": 4,
+            "100_000_to_124_999": 8,
+            "125_000_to_149_999": 6,
+            "150_000_to_199_999": 7,
+            "200_000_and_over": 4
+          }
+        },
+        "most_common_occupations_top_3": {
+          "heading": "Most Common Occupations (Top 3)",
+          "items": [
+            "Sales and service occupations - 24%",
+            "Trades, transport and equipment operators and related occupations - 15%",
+            "Business, finance and administration occupations - 14%"
+          ],
+          "values": {
+            "sales_and_service_occupations": 24,
+            "trades_transport_and_equipment_operators_and_related_occupations": 15,
+            "business_finance_and_administration_occupations": 14
+          }
+        },
+        "most_common_industries_top_3": {
+          "heading": "Most Common Industries (Top 3)",
+          "items": [
+            "Retail trade - 11%",
+            "Health care and social assistance - 10%",
+            "Educational services - 8%"
+          ],
+          "values": {
+            "retail_trade": 11,
+            "health_care_and_social_assistance": 10,
+            "educational_services": 8
+          }
+        },
+        "employment": {
+          "heading": "Employment",
+          "items": [
+            "Employed - 56% of people over age 15 are employed",
+            "Unemployed - 4% are unemployed",
+            "Not in the labour force - 38% are retired, students, homemakers, etc."
+          ],
+          "values": null
+        },
+        "home_types": {
+          "heading": "Home Types",
+          "items": [
+            "Single-detached house - 44%",
+            "Semi-detached house - 4%",
+            "Duplex - 4%",
+            "Row house - 4%",
+            "Low-rise apartment/condo - 24%",
+            "High-rise apartment/condo - 17%"
+          ],
+          "values": {
+            "single_detached_house": 44,
+            "semi_detached_house": 4,
+            "duplex": 4,
+            "row_house": 4,
+            "low_rise_apartment_condo": 24,
+            "high_rise_apartment_condo": 17
+          }
+        },
+        "condominium_status": {
+          "heading": "Condominium Status",
+          "items": [
+            "Condominium - 2%",
+            "Not condominium - 97%"
+          ],
+          "values": {
+            "condominium": 2,
+            "not_condominium": 97
+          }
+        },
+        "number_of_bedrooms_in_homes": {
+          "heading": "Number of Bedrooms in Homes",
+          "items": [
+            "1 bedroom - 24%",
+            "2 bedrooms - 23%",
+            "3 bedrooms - 31%",
+            "No bedrooms - 0%",
+            "4 or more bedrooms - 20%"
+          ],
+          "values": {
+            "1_bedroom": 24,
+            "2_bedrooms": 23,
+            "3_bedrooms": 31,
+            "no_bedrooms": 0,
+            "4_or_more_bedrooms": 20
+          }
+        },
+        "period_of_home_construction": {
+          "heading": "Period of Home Construction",
+          "items": [
+            "1961 to 1980 - 33%",
+            "1981 to 1990 - 11%",
+            "1991 to 2000 - 12%",
+            "2001 to 2005 - 2%",
+            "2006 to 2010 - 1%",
+            "2011 to 2016 - 2%",
+            "1960 or before - 35%"
+          ],
+          "values": {
+            "1961_to_1980": 33,
+            "1981_to_1990": 11,
+            "1991_to_2000": 12,
+            "2001_to_2005": 2,
+            "2006_to_2010": 1,
+            "2011_to_2016": 2,
+            "1960_or_before": 35
+          }
+        },
+        "renters_and_owners": {
+          "heading": "Renters & Owners",
+          "items": [
+            "Owner - 51%",
+            "Renter - 47%"
+          ],
+          "values": {
+            "owner": 51,
+            "renter": 47
+          }
+        }
+      },
+      "section_summaries": {
+        "people": "Families with kids make up 33% of households in Downtown Whitby, while couples without children make up 23% of households and 39% of households are one person living alone. People in this neighbourhood come from 95 different ethnic origins, and 19% are first-generation immigrants, while 25% are second-generation immigrants.",
+        "schools": "Downtown Whitby has great elementary schools, great secondary schools, elementary special programs, and secondary special programs. There are 10 public schools, 7 Catholic schools, and 3 private schools serving Downtown Whitby. The special programs offered at local schools include All-Female, Advanced Placement, French Immersion, Montessori, and International Baccalaureate.",
+        "parks": "Fun is easy to find at the many parks & rec facilities here. Parks in Downtown Whitby feature playgrounds for kids, sports parks, and skating. There are 10 parks in this neighbourhood, with 37 recreational facilities in total. The average number of facilities per park is 3.",
+        "homes": "In this neighbourhood, there are a mix of home types. This neighbourhood has a consistent population, with 37% of households having moved within the past 5 years and 12% having moved within the past year. It has mostly older homes and is a mix of owner and renter-occupied."
+      },
+      "popular_with": [
+        "people in their 20s, people in their 40s, people in their 50s, and people in their 60s",
+        "kids",
+        "20s",
+        "40s",
+        "50s",
+        "60s"
+      ],
+      "scraped_at": "2026-04-15T02:28:47.346Z"
+    },
+    {
+      "slug": "lynde-creek",
+      "city": "whitby-on",
+      "name": "Lynde Creek",
+      "description": "Neighbourhood Vibe A peaceful and nature-filled neighbourhood with easy access to downtown and amenities.",
+      "schools": {
+        "public": 8,
+        "catholic": 5,
+        "private": null,
+        "special_programs": null
+      },
+      "parks": {
+        "count": 7,
+        "recreational_facilities": 24,
+        "avg_facilities_per_park": null
+      },
+      "transit": {
+        "stops": 62
+      },
+      "demographics": {
+        "families_with_kids_pct": 52,
+        "couples_no_kids_pct": 29,
+        "one_person_household_pct": null
+      },
+      "education": {
+        "bachelors_or_higher_pct": 30,
+        "any_postsecondary_pct": 68
+      },
+      "housing": {
+        "moved_within_5yr_pct": 26,
+        "moved_within_1yr_pct": 7
+      },
+      "homes": {
+        "summary": "In Lynde Creek, there are mostly detached homes. Lynde Creek has a consistent population, with 26% of households having moved within the past 5 years and 7% having moved within the past year. It has a mix of older and newer homes and is mostly owner-occupied.",
+        "home_types_pct": {
+          "single_detached_house": 82,
+          "semi_detached_house": 6,
+          "duplex": 2,
+          "row_house": 6,
+          "low_rise_apartment_condo": 2,
+          "high_rise_apartment_condo": 0
+        },
+        "condominium_status_pct": {
+          "condominium": 3,
+          "not_condominium": 97
+        },
+        "bedrooms_pct": {
+          "1_bedroom": 2,
+          "2_bedrooms": 5,
+          "3_bedrooms": 40,
+          "no_bedrooms": 0,
+          "4_or_more_bedrooms": 50
+        },
+        "construction_period_pct": {
+          "1961_to_1980": 55,
+          "1981_to_1990": 18,
+          "1991_to_2000": 13,
+          "2001_to_2005": 2,
+          "2006_to_2010": 0,
+          "2011_to_2016": 0,
+          "1960_or_before": 10
+        },
+        "tenure_pct": null,
+        "mostly_older_homes": null,
+        "mostly_renter_occupied": null
+      },
+      "sections": {
+        "household_size": {
+          "heading": "Household Size",
+          "items": [
+            "1 person - 13%",
+            "2 persons - 33%",
+            "3 persons - 20%",
+            "4 persons - 20%",
+            "5 or more persons - 10%"
+          ],
+          "values": {
+            "1_person": 13,
+            "2_persons": 33,
+            "3_persons": 20,
+            "4_persons": 20,
+            "5_or_more_persons": 10
+          }
+        },
+        "household_types": {
+          "heading": "Household Types",
+          "items": [
+            "One-person households - 13%",
+            "Non-family households - 1%",
+            "Families with children - 52%",
+            "Couples without children - 28%",
+            "Multiple families in household - 2%"
+          ],
+          "values": {
+            "one_person_households": 13,
+            "non_family_households": 1,
+            "families_with_children": 52,
+            "couples_without_children": 28,
+            "multiple_families_in_household": 2
+          }
+        },
+        "children_per_family": {
+          "heading": "Children Per Family",
+          "items": [
+            "1 child - 29%",
+            "2 children - 27%",
+            "3 or more children - 10%"
+          ],
+          "values": {
+            "1_child": 29,
+            "2_children": 27,
+            "3_or_more_children": 10
+          }
+        },
+        "broad_age_ranges": {
+          "heading": "Broad Age Ranges",
+          "items": [
+            "0 to 14 years - 15%",
+            "15 to 64 years - 68%",
+            "65 years and over - 15%"
+          ],
+          "values": {
+            "0_to_14_years": 15,
+            "15_to_64_years": 68,
+            "65_years_and_over": 15
+          }
+        },
+        "most_common_ethnic_origins": {
+          "heading": "Most Common Ethnic Origins",
+          "items": [
+            "English - 35%",
+            "Canadian - 33%",
+            "Scottish - 26%",
+            "Irish - 26%",
+            "German - 10%"
+          ],
+          "values": {
+            "english": 35,
+            "canadian": 33,
+            "scottish": 26,
+            "irish": 26,
+            "german": 10
+          }
+        },
+        "age_of_primary_household_maintainer": {
+          "heading": "Age of Primary Household Maintainer",
+          "items": [
+            "15 to 24 years - 0%",
+            "25 to 34 years - 8%",
+            "35 to 44 years - 15%",
+            "45 to 54 years - 22%",
+            "55 to 64 years - 26%",
+            "65 to 74 years - 19%",
+            "75 to 84 years - 5%",
+            "85 years and over - 1%"
+          ],
+          "values": {
+            "15_to_24_years": 0,
+            "25_to_34_years": 8,
+            "35_to_44_years": 15,
+            "45_to_54_years": 22,
+            "55_to_64_years": 26,
+            "65_to_74_years": 19,
+            "75_to_84_years": 5,
+            "85_years_and_over": 1
+          }
+        },
+        "specific_age_groups": {
+          "heading": "Specific Age Groups",
+          "items": [
+            "0 to 4 years - 4%",
+            "5 to 9 years - 5%",
+            "10 to 14 years - 5%",
+            "15 to 19 years - 6%",
+            "20 to 29 years - 12%",
+            "30 to 39 years - 10%",
+            "40 to 49 years - 12%",
+            "50 to 59 years - 18%",
+            "60 to 69 years - 14%",
+            "over 70 years - 7%"
+          ],
+          "values": {
+            "0_to_4_years": 4,
+            "5_to_9_years": 5,
+            "10_to_14_years": 5,
+            "15_to_19_years": 6,
+            "20_to_29_years": 12,
+            "30_to_39_years": 10,
+            "40_to_49_years": 12,
+            "50_to_59_years": 18,
+            "60_to_69_years": 14,
+            "over_70_years": 7
+          }
+        },
+        "public": {
+          "heading": "Public",
+          "items": [
+            "Henry Street HS",
+            "Robert Munsch PS",
+            "Colonel JE Farewell PS",
+            "West Lynde PS",
+            "EA Fairman PS",
+            "ÉS Ronald-Marion",
+            "Julie Payette PS",
+            "É Élém Antonine Maillet"
+          ],
+          "values": null
+        },
+        "catholic": {
+          "heading": "Catholic",
+          "items": [
+            "St. Marguerite d'Youville Catholic School",
+            "St. John the Evangelist Catholic School",
+            "All Saints Catholic SS",
+            "ÉÉC Jean-Paul II",
+            "ÉSC Saint-Charles-Garnier"
+          ],
+          "values": null
+        },
+        "recreation_facilities_in_neighbourhood_parks": {
+          "heading": "Recreation Facilities in Neighbourhood Parks",
+          "items": [
+            "Playgrounds - 7",
+            "Tennis Courts - 4",
+            "Basketball Court - 1",
+            "Ball Diamonds - 3",
+            "Sports Fields - 5",
+            "Sports Courts - 2",
+            "Trails - 2"
+          ],
+          "values": {
+            "playgrounds": 7,
+            "tennis_courts": 4,
+            "basketball_court": 1,
+            "ball_diamonds": 3,
+            "sports_fields": 5,
+            "sports_courts": 2,
+            "trails": 2
+          }
+        },
+        "commute_destination_for_residents": {
+          "heading": "Commute Destination for Residents",
+          "items": [
+            "Commute within the city - 26%",
+            "Commute to another city - 73%"
+          ],
+          "values": {
+            "commute_within_the_city": 26,
+            "commute_to_another_city": 73
+          }
+        },
+        "commute_types": {
+          "heading": "Commute Types",
+          "items": [
+            "Vehicle - 84%",
+            "Transit - 11%",
+            "Walk/bike - 2%"
+          ],
+          "values": {
+            "vehicle": 84,
+            "transit": 11,
+            "walk_bike": 2
+          }
+        },
+        "commute_times_of_residents": {
+          "heading": "Commute Times of Residents",
+          "items": [
+            "15 to 29 minutes - 29%",
+            "30 to 44 minutes - 17%",
+            "45 to 59 minutes - 11%",
+            "60 minutes and over - 20%",
+            "Less than 15 minutes - 22%"
+          ],
+          "values": {
+            "15_to_29_minutes": 29,
+            "30_to_44_minutes": 17,
+            "45_to_59_minutes": 11,
+            "60_minutes_and_over": 20,
+            "less_than_15_minutes": 22
+          }
+        },
+        "household_income": {
+          "heading": "Household Income",
+          "items": [
+            "Under $30,000 - 3%",
+            "$30,000 to $39,999 - 3%",
+            "$40,000 to $49,999 - 5%",
+            "$50,000 to $59,999 - 4%",
+            "$60,000 to $69,999 - 5%",
+            "$70,000 to $79,999 - 6%",
+            "$80,000 to $89,999 - 5%",
+            "$90,000 to $99,999 - 5%",
+            "$100,000 to $124,999 - 13%",
+            "$125,000 to $149,999 - 11%",
+            "$150,000 to $199,999 - 13%",
+            "$200,000 and over - 15%"
+          ],
+          "values": {
+            "under_30_000": 3,
+            "30_000_to_39_999": 3,
+            "40_000_to_49_999": 5,
+            "50_000_to_59_999": 4,
+            "60_000_to_69_999": 5,
+            "70_000_to_79_999": 6,
+            "80_000_to_89_999": 5,
+            "90_000_to_99_999": 5,
+            "100_000_to_124_999": 13,
+            "125_000_to_149_999": 11,
+            "150_000_to_199_999": 13,
+            "200_000_and_over": 15
+          }
+        },
+        "most_common_occupations_top_3": {
+          "heading": "Most Common Occupations (Top 3)",
+          "items": [
+            "Sales and service occupations - 20%",
+            "Business, finance and administration occupations - 17%",
+            "Occupations in education, law and social, community and government services - 15%"
+          ],
+          "values": {
+            "sales_and_service_occupations": 20,
+            "business_finance_and_administration_occupations": 17,
+            "occupations_in_education_law_and_social_community_and_government_services": 15
+          }
+        },
+        "most_common_industries_top_3": {
+          "heading": "Most Common Industries (Top 3)",
+          "items": [
+            "Educational services - 11%",
+            "Health care and social assistance - 10%",
+            "Retail trade - 9%"
+          ],
+          "values": {
+            "educational_services": 11,
+            "health_care_and_social_assistance": 10,
+            "retail_trade": 9
+          }
+        },
+        "employment": {
+          "heading": "Employment",
+          "items": [
+            "Employed - 59% of people over age 15 are employed",
+            "Unemployed - 6% are unemployed",
+            "Not in the labour force - 33% are retired, students, homemakers, etc."
+          ],
+          "values": null
+        },
+        "home_types": {
+          "heading": "Home Types",
+          "items": [
+            "Single-detached house - 82%",
+            "Semi-detached house - 6%",
+            "Duplex - 2%",
+            "Row house - 6%",
+            "Low-rise apartment/condo - 2%",
+            "High-rise apartment/condo - 0%"
+          ],
+          "values": {
+            "single_detached_house": 82,
+            "semi_detached_house": 6,
+            "duplex": 2,
+            "row_house": 6,
+            "low_rise_apartment_condo": 2,
+            "high_rise_apartment_condo": 0
+          }
+        },
+        "condominium_status": {
+          "heading": "Condominium Status",
+          "items": [
+            "Condominium - 3%",
+            "Not condominium - 97%"
+          ],
+          "values": {
+            "condominium": 3,
+            "not_condominium": 97
+          }
+        },
+        "number_of_bedrooms_in_homes": {
+          "heading": "Number of Bedrooms in Homes",
+          "items": [
+            "1 bedroom - 2%",
+            "2 bedrooms - 5%",
+            "3 bedrooms - 40%",
+            "No bedrooms - 0%",
+            "4 or more bedrooms - 50%"
+          ],
+          "values": {
+            "1_bedroom": 2,
+            "2_bedrooms": 5,
+            "3_bedrooms": 40,
+            "no_bedrooms": 0,
+            "4_or_more_bedrooms": 50
+          }
+        },
+        "period_of_home_construction": {
+          "heading": "Period of Home Construction",
+          "items": [
+            "1961 to 1980 - 55%",
+            "1981 to 1990 - 18%",
+            "1991 to 2000 - 13%",
+            "2001 to 2005 - 2%",
+            "2006 to 2010 - 0%",
+            "2011 to 2016 - 0%",
+            "1960 or before - 10%"
+          ],
+          "values": {
+            "1961_to_1980": 55,
+            "1981_to_1990": 18,
+            "1991_to_2000": 13,
+            "2001_to_2005": 2,
+            "2006_to_2010": 0,
+            "2011_to_2016": 0,
+            "1960_or_before": 10
+          }
+        },
+        "renters_and_owners": {
+          "heading": "Renters & Owners",
+          "items": [
+            "Owner - 90%",
+            "Renter - 10%"
+          ],
+          "values": {
+            "owner": 90,
+            "renter": 10
+          }
+        }
+      },
+      "section_summaries": {
+        "people": "Families with kids make up 52% of households in this neighbourhood, while couples without children make up 29% of households and 13% of households are one person living alone. People in this neighbourhood come from 86 different ethnic origins, and 17% are first-generation immigrants, while 25% are second-generation immigrants.",
+        "schools": "Lynde Creek has great elementary schools, great secondary schools, elementary special programs, and secondary special programs. There are 8 public schools and 5 Catholic schools serving this neighbourhood. The special programs offered at local schools include Advanced Placement, French Immersion, and International Baccalaureate.",
+        "parks": "Fun is easy to find at the many parks & rec facilities here. Parks in Lynde Creek feature playgrounds for kids and sports parks. There are 7 parks in this neighbourhood, with 24 recreational facilities in total. The average number of facilities per park is 3.",
+        "homes": "In Lynde Creek, there are mostly detached homes. Lynde Creek has a consistent population, with 26% of households having moved within the past 5 years and 7% having moved within the past year. It has a mix of older and newer homes and is mostly owner-occupied."
+      },
+      "popular_with": [
+        "people in their 20s, people in their 40s, people in their 50s, and people in their 60s",
+        "kids",
+        "20s",
+        "40s",
+        "50s",
+        "60s"
+      ],
+      "scraped_at": "2026-04-15T02:28:48.098Z"
+    },
+    {
+      "slug": "port-whitby",
+      "city": "whitby-on",
+      "name": "Port Whitby",
+      "description": "Neighbourhood Vibe A mixed commercial, recreational and residential neighbourhood with a beautiful waterfront, marina.",
+      "schools": {
+        "public": 6,
+        "catholic": 4,
+        "private": null,
+        "special_programs": null
+      },
+      "parks": {
+        "count": null,
+        "recreational_facilities": 58,
+        "avg_facilities_per_park": null
+      },
+      "transit": {
+        "stops": 26
+      },
+      "demographics": {
+        "families_with_kids_pct": 41,
+        "couples_no_kids_pct": 26,
+        "one_person_household_pct": null
+      },
+      "education": {
+        "bachelors_or_higher_pct": 38,
+        "any_postsecondary_pct": 74
+      },
+      "housing": {
+        "moved_within_5yr_pct": 30,
+        "moved_within_1yr_pct": 11
+      },
+      "homes": {
+        "summary": "In this neighbourhood, there are a mix of home types. This neighbourhood has a consistent population, with 30% of households having moved within the past 5 years and 11% having moved within the past year. It has a mix of older and newer homes and is mostly owner-occupied.",
+        "home_types_pct": {
+          "single_detached_house": 37,
+          "semi_detached_house": 5,
+          "duplex": 0,
+          "row_house": 15,
+          "low_rise_apartment_condo": 9,
+          "high_rise_apartment_condo": 30
+        },
+        "condominium_status_pct": {
+          "condominium": 35,
+          "not_condominium": 64
+        },
+        "bedrooms_pct": {
+          "1_bedroom": 15,
+          "2_bedrooms": 23,
+          "3_bedrooms": 44,
+          "no_bedrooms": 0,
+          "4_or_more_bedrooms": 17
+        },
+        "construction_period_pct": {
+          "1961_to_1980": 7,
+          "1981_to_1990": 3,
+          "1991_to_2000": 36,
+          "2001_to_2005": 27,
+          "2006_to_2010": 17,
+          "2011_to_2016": 2,
+          "1960_or_before": 5
+        },
+        "tenure_pct": null,
+        "mostly_older_homes": null,
+        "mostly_renter_occupied": null
+      },
+      "sections": {
+        "household_size": {
+          "heading": "Household Size",
+          "items": [
+            "1 person - 30%",
+            "2 persons - 31%",
+            "3 persons - 14%",
+            "4 persons - 16%",
+            "5 or more persons - 5%"
+          ],
+          "values": {
+            "1_person": 30,
+            "2_persons": 31,
+            "3_persons": 14,
+            "4_persons": 16,
+            "5_or_more_persons": 5
+          }
+        },
+        "household_types": {
+          "heading": "Household Types",
+          "items": [
+            "One-person households - 31%",
+            "Non-family households - 1%",
+            "Families with children - 41%",
+            "Couples without children - 26%",
+            "Multiple families in household - 0%"
+          ],
+          "values": {
+            "one_person_households": 31,
+            "non_family_households": 1,
+            "families_with_children": 41,
+            "couples_without_children": 26,
+            "multiple_families_in_household": 0
+          }
+        },
+        "children_per_family": {
+          "heading": "Children Per Family",
+          "items": [
+            "1 child - 23%",
+            "2 children - 28%",
+            "3 or more children - 5%"
+          ],
+          "values": {
+            "1_child": 23,
+            "2_children": 28,
+            "3_or_more_children": 5
+          }
+        },
+        "broad_age_ranges": {
+          "heading": "Broad Age Ranges",
+          "items": [
+            "0 to 14 years - 20%",
+            "15 to 64 years - 62%",
+            "65 years and over - 17%"
+          ],
+          "values": {
+            "0_to_14_years": 20,
+            "15_to_64_years": 62,
+            "65_years_and_over": 17
+          }
+        },
+        "most_common_ethnic_origins": {
+          "heading": "Most Common Ethnic Origins",
+          "items": [
+            "English - 30%",
+            "Canadian - 28%",
+            "Scottish - 27%",
+            "Irish - 22%",
+            "French - 9%"
+          ],
+          "values": {
+            "english": 30,
+            "canadian": 28,
+            "scottish": 27,
+            "irish": 22,
+            "french": 9
+          }
+        },
+        "age_of_primary_household_maintainer": {
+          "heading": "Age of Primary Household Maintainer",
+          "items": [
+            "15 to 24 years - 0%",
+            "25 to 34 years - 9%",
+            "35 to 44 years - 20%",
+            "45 to 54 years - 22%",
+            "55 to 64 years - 18%",
+            "65 to 74 years - 13%",
+            "75 to 84 years - 10%",
+            "85 years and over - 2%"
+          ],
+          "values": {
+            "15_to_24_years": 0,
+            "25_to_34_years": 9,
+            "35_to_44_years": 20,
+            "45_to_54_years": 22,
+            "55_to_64_years": 18,
+            "65_to_74_years": 13,
+            "75_to_84_years": 10,
+            "85_years_and_over": 2
+          }
+        },
+        "specific_age_groups": {
+          "heading": "Specific Age Groups",
+          "items": [
+            "0 to 4 years - 6%",
+            "5 to 9 years - 7%",
+            "10 to 14 years - 6%",
+            "15 to 19 years - 3%",
+            "20 to 29 years - 7%",
+            "30 to 39 years - 13%",
+            "40 to 49 years - 16%",
+            "50 to 59 years - 13%",
+            "60 to 69 years - 10%",
+            "over 70 years - 9%"
+          ],
+          "values": {
+            "0_to_4_years": 6,
+            "5_to_9_years": 7,
+            "10_to_14_years": 6,
+            "15_to_19_years": 3,
+            "20_to_29_years": 7,
+            "30_to_39_years": 13,
+            "40_to_49_years": 16,
+            "50_to_59_years": 13,
+            "60_to_69_years": 10,
+            "over_70_years": 9
+          }
+        },
+        "public": {
+          "heading": "Public",
+          "items": [
+            "Henry Street HS",
+            "Sir William Stephenson PS",
+            "ÉS Ronald-Marion",
+            "Julie Payette PS",
+            "É Élém Antonine Maillet",
+            "Whitby Shores PS"
+          ],
+          "values": null
+        },
+        "catholic": {
+          "heading": "Catholic",
+          "items": [
+            "St. Marguerite d'Youville Catholic School",
+            "All Saints Catholic SS",
+            "ÉÉC Jean-Paul II",
+            "ÉSC Saint-Charles-Garnier"
+          ],
+          "values": null
+        },
+        "recreation_facilities_in_neighbourhood_parks": {
+          "heading": "Recreation Facilities in Neighbourhood Parks",
+          "items": [
+            "Playgrounds - 4",
+            "Pool - 1",
+            "Arena - 1",
+            "Rinks - 6",
+            "Tennis Courts - 6",
+            "Basketball Courts - 3",
+            "Ball Diamonds - 7",
+            "Sports Fields - 9",
+            "Track - 1",
+            "Community Centres - 3",
+            "Splash Pads - 4",
+            "Beach - 1",
+            "Sports Court - 1",
+            "Boating Facility - 1",
+            "Trails - 8",
+            "Fitness/Weight Room - 1",
+            "Gym - 1"
+          ],
+          "values": {
+            "playgrounds": 4,
+            "pool": 1,
+            "arena": 1,
+            "rinks": 6,
+            "tennis_courts": 6,
+            "basketball_courts": 3,
+            "ball_diamonds": 7,
+            "sports_fields": 9,
+            "track": 1,
+            "community_centres": 3,
+            "splash_pads": 4,
+            "beach": 1,
+            "sports_court": 1,
+            "boating_facility": 1,
+            "trails": 8,
+            "fitness_weight_room": 1,
+            "gym": 1
+          }
+        },
+        "commute_destination_for_residents": {
+          "heading": "Commute Destination for Residents",
+          "items": [
+            "Commute within the city - 17%",
+            "Commute to another city - 81%"
+          ],
+          "values": {
+            "commute_within_the_city": 17,
+            "commute_to_another_city": 81
+          }
+        },
+        "commute_types": {
+          "heading": "Commute Types",
+          "items": [
+            "Vehicle - 71%",
+            "Transit - 24%",
+            "Walk/bike - 2%"
+          ],
+          "values": {
+            "vehicle": 71,
+            "transit": 24,
+            "walk_bike": 2
+          }
+        },
+        "commute_times_of_residents": {
+          "heading": "Commute Times of Residents",
+          "items": [
+            "15 to 29 minutes - 31%",
+            "30 to 44 minutes - 8%",
+            "45 to 59 minutes - 16%",
+            "60 minutes and over - 29%",
+            "Less than 15 minutes - 15%"
+          ],
+          "values": {
+            "15_to_29_minutes": 31,
+            "30_to_44_minutes": 8,
+            "45_to_59_minutes": 16,
+            "60_minutes_and_over": 29,
+            "less_than_15_minutes": 15
+          }
+        },
+        "household_income": {
+          "heading": "Household Income",
+          "items": [
+            "Under $30,000 - 4%",
+            "$30,000 to $39,999 - 6%",
+            "$40,000 to $49,999 - 6%",
+            "$50,000 to $59,999 - 6%",
+            "$60,000 to $69,999 - 6%",
+            "$70,000 to $79,999 - 5%",
+            "$80,000 to $89,999 - 5%",
+            "$90,000 to $99,999 - 7%",
+            "$100,000 to $124,999 - 13%",
+            "$125,000 to $149,999 - 10%",
+            "$150,000 to $199,999 - 12%",
+            "$200,000 and over - 10%"
+          ],
+          "values": {
+            "under_30_000": 4,
+            "30_000_to_39_999": 6,
+            "40_000_to_49_999": 6,
+            "50_000_to_59_999": 6,
+            "60_000_to_69_999": 6,
+            "70_000_to_79_999": 5,
+            "80_000_to_89_999": 5,
+            "90_000_to_99_999": 7,
+            "100_000_to_124_999": 13,
+            "125_000_to_149_999": 10,
+            "150_000_to_199_999": 12,
+            "200_000_and_over": 10
+          }
+        },
+        "most_common_occupations_top_3": {
+          "heading": "Most Common Occupations (Top 3)",
+          "items": [
+            "Business, finance and administration occupations - 22%",
+            "Sales and service occupations - 19%",
+            "Occupations in education, law and social, community and government services - 14%"
+          ],
+          "values": {
+            "business_finance_and_administration_occupations": 22,
+            "sales_and_service_occupations": 19,
+            "occupations_in_education_law_and_social_community_and_government_services": 14
+          }
+        },
+        "most_common_industries_top_3": {
+          "heading": "Most Common Industries (Top 3)",
+          "items": [
+            "Retail trade - 11%",
+            "Health care and social assistance - 10%",
+            "Professional, scientific and technical services - 8%"
+          ],
+          "values": {
+            "retail_trade": 11,
+            "health_care_and_social_assistance": 10,
+            "professional_scientific_and_technical_services": 8
+          }
+        },
+        "employment": {
+          "heading": "Employment",
+          "items": [
+            "Employed - 65% of people over age 15 are employed",
+            "Unemployed - 3% are unemployed",
+            "Not in the labour force - 29% are retired, students, homemakers, etc."
+          ],
+          "values": null
+        },
+        "home_types": {
+          "heading": "Home Types",
+          "items": [
+            "Single-detached house - 37%",
+            "Semi-detached house - 5%",
+            "Duplex - 0%",
+            "Row house - 15%",
+            "Low-rise apartment/condo - 9%",
+            "High-rise apartment/condo - 30%"
+          ],
+          "values": {
+            "single_detached_house": 37,
+            "semi_detached_house": 5,
+            "duplex": 0,
+            "row_house": 15,
+            "low_rise_apartment_condo": 9,
+            "high_rise_apartment_condo": 30
+          }
+        },
+        "condominium_status": {
+          "heading": "Condominium Status",
+          "items": [
+            "Condominium - 35%",
+            "Not condominium - 64%"
+          ],
+          "values": {
+            "condominium": 35,
+            "not_condominium": 64
+          }
+        },
+        "number_of_bedrooms_in_homes": {
+          "heading": "Number of Bedrooms in Homes",
+          "items": [
+            "1 bedroom - 15%",
+            "2 bedrooms - 23%",
+            "3 bedrooms - 44%",
+            "No bedrooms - 0%",
+            "4 or more bedrooms - 17%"
+          ],
+          "values": {
+            "1_bedroom": 15,
+            "2_bedrooms": 23,
+            "3_bedrooms": 44,
+            "no_bedrooms": 0,
+            "4_or_more_bedrooms": 17
+          }
+        },
+        "period_of_home_construction": {
+          "heading": "Period of Home Construction",
+          "items": [
+            "1961 to 1980 - 7%",
+            "1981 to 1990 - 3%",
+            "1991 to 2000 - 36%",
+            "2001 to 2005 - 27%",
+            "2006 to 2010 - 17%",
+            "2011 to 2016 - 2%",
+            "1960 or before - 5%"
+          ],
+          "values": {
+            "1961_to_1980": 7,
+            "1981_to_1990": 3,
+            "1991_to_2000": 36,
+            "2001_to_2005": 27,
+            "2006_to_2010": 17,
+            "2011_to_2016": 2,
+            "1960_or_before": 5
+          }
+        },
+        "renters_and_owners": {
+          "heading": "Renters & Owners",
+          "items": [
+            "Owner - 80%",
+            "Renter - 18%"
+          ],
+          "values": {
+            "owner": 80,
+            "renter": 18
+          }
+        }
+      },
+      "section_summaries": {
+        "people": "Families with kids make up 41% of households in Port Whitby, while couples without children make up 26% of households and 31% of households are one person living alone. People in Port Whitby come from 65 different ethnic origins, and 24% are first-generation immigrants, while 26% are second-generation immigrants.",
+        "schools": "Port Whitby has great elementary schools, great secondary schools, elementary special programs, and secondary special programs. There are 6 public schools and 4 Catholic schools serving Port Whitby. The special programs offered at local schools include Advanced Placement, French Immersion, and International Baccalaureate.",
+        "parks": "Fun is easy to find at the many parks & rec facilities here. Parks in this neighbourhood feature playgrounds for kids, sports parks, swimming, skating, and water access. There are 14 parks in Port Whitby, with 58 recreational facilities in total. The average number of facilities per park is 4.",
+        "homes": "In this neighbourhood, there are a mix of home types. This neighbourhood has a consistent population, with 30% of households having moved within the past 5 years and 11% having moved within the past year. It has a mix of older and newer homes and is mostly owner-occupied."
+      },
+      "popular_with": [
+        "families with kids under 5, families with kids aged 5 to 9, people in their 30s, people in their 40s, and people in their 50s",
+        "kids",
+        "30s",
+        "40s",
+        "50s"
+      ],
+      "scraped_at": "2026-04-15T02:28:49.185Z"
+    },
+    {
+      "slug": "pringle-creek",
+      "city": "whitby-on",
+      "name": "Pringle Creek",
+      "description": "Neighbourhood Vibe Pringle Creek is a diverse and family-friendly neighbourhood with great access to natural areas.",
+      "schools": {
+        "public": 12,
+        "catholic": 6,
+        "private": 1,
+        "special_programs": null
+      },
+      "parks": {
+        "count": 17,
+        "recreational_facilities": 53,
+        "avg_facilities_per_park": null
+      },
+      "transit": {
+        "stops": 144
+      },
+      "demographics": {
+        "families_with_kids_pct": 56,
+        "couples_no_kids_pct": 21,
+        "one_person_household_pct": null
+      },
+      "education": {
+        "bachelors_or_higher_pct": 33,
+        "any_postsecondary_pct": 69
+      },
+      "housing": {
+        "moved_within_5yr_pct": 28,
+        "moved_within_1yr_pct": 8
+      },
+      "homes": {
+        "summary": "In this neighbourhood, there are mostly detached homes. This neighbourhood has a consistent population, with 28% of households having moved within the past 5 years and 8% having moved within the past year. It has a mix of older and newer homes and is mostly owner-occupied.",
+        "home_types_pct": {
+          "single_detached_house": 61,
+          "semi_detached_house": 3,
+          "duplex": 1,
+          "row_house": 22,
+          "low_rise_apartment_condo": 5,
+          "high_rise_apartment_condo": 6
+        },
+        "condominium_status_pct": {
+          "condominium": 16,
+          "not_condominium": 83
+        },
+        "bedrooms_pct": {
+          "1_bedroom": 4,
+          "2_bedrooms": 9,
+          "3_bedrooms": 41,
+          "no_bedrooms": 0,
+          "4_or_more_bedrooms": 44
+        },
+        "construction_period_pct": {
+          "1961_to_1980": 12,
+          "1981_to_1990": 37,
+          "1991_to_2000": 24,
+          "2001_to_2005": 14,
+          "2006_to_2010": 8,
+          "2011_to_2016": 1,
+          "1960_or_before": 1
+        },
+        "tenure_pct": null,
+        "mostly_older_homes": null,
+        "mostly_renter_occupied": null
+      },
+      "sections": {
+        "household_size": {
+          "heading": "Household Size",
+          "items": [
+            "1 person - 17%",
+            "2 persons - 27%",
+            "3 persons - 20%",
+            "4 persons - 22%",
+            "5 or more persons - 11%"
+          ],
+          "values": {
+            "1_person": 17,
+            "2_persons": 27,
+            "3_persons": 20,
+            "4_persons": 22,
+            "5_or_more_persons": 11
+          }
+        },
+        "household_types": {
+          "heading": "Household Types",
+          "items": [
+            "One-person households - 17%",
+            "Non-family households - 1%",
+            "Families with children - 56%",
+            "Couples without children - 21%",
+            "Multiple families in household - 3%"
+          ],
+          "values": {
+            "one_person_households": 17,
+            "non_family_households": 1,
+            "families_with_children": 56,
+            "couples_without_children": 21,
+            "multiple_families_in_household": 3
+          }
+        },
+        "children_per_family": {
+          "heading": "Children Per Family",
+          "items": [
+            "1 child - 28%",
+            "2 children - 31%",
+            "3 or more children - 11%"
+          ],
+          "values": {
+            "1_child": 28,
+            "2_children": 31,
+            "3_or_more_children": 11
+          }
+        },
+        "broad_age_ranges": {
+          "heading": "Broad Age Ranges",
+          "items": [
+            "0 to 14 years - 16%",
+            "15 to 64 years - 70%",
+            "65 years and over - 12%"
+          ],
+          "values": {
+            "0_to_14_years": 16,
+            "15_to_64_years": 70,
+            "65_years_and_over": 12
+          }
+        },
+        "most_common_ethnic_origins": {
+          "heading": "Most Common Ethnic Origins",
+          "items": [
+            "English - 28%",
+            "Canadian - 24%",
+            "Scottish - 21%",
+            "Irish - 21%",
+            "German - 8%"
+          ],
+          "values": {
+            "english": 28,
+            "canadian": 24,
+            "scottish": 21,
+            "irish": 21,
+            "german": 8
+          }
+        },
+        "age_of_primary_household_maintainer": {
+          "heading": "Age of Primary Household Maintainer",
+          "items": [
+            "15 to 24 years - 0%",
+            "25 to 34 years - 7%",
+            "35 to 44 years - 18%",
+            "45 to 54 years - 27%",
+            "55 to 64 years - 23%",
+            "65 to 74 years - 12%",
+            "75 to 84 years - 6%",
+            "85 years and over - 3%"
+          ],
+          "values": {
+            "15_to_24_years": 0,
+            "25_to_34_years": 7,
+            "35_to_44_years": 18,
+            "45_to_54_years": 27,
+            "55_to_64_years": 23,
+            "65_to_74_years": 12,
+            "75_to_84_years": 6,
+            "85_years_and_over": 3
+          }
+        },
+        "specific_age_groups": {
+          "heading": "Specific Age Groups",
+          "items": [
+            "0 to 4 years - 4%",
+            "5 to 9 years - 5%",
+            "10 to 14 years - 6%",
+            "15 to 19 years - 7%",
+            "20 to 29 years - 13%",
+            "30 to 39 years - 10%",
+            "40 to 49 years - 13%",
+            "50 to 59 years - 17%",
+            "60 to 69 years - 9%",
+            "over 70 years - 5%"
+          ],
+          "values": {
+            "0_to_4_years": 4,
+            "5_to_9_years": 5,
+            "10_to_14_years": 6,
+            "15_to_19_years": 7,
+            "20_to_29_years": 13,
+            "30_to_39_years": 10,
+            "40_to_49_years": 13,
+            "50_to_59_years": 17,
+            "60_to_69_years": 9,
+            "over_70_years": 5
+          }
+        },
+        "public": {
+          "heading": "Public",
+          "items": [
+            "Fallingbrook PS",
+            "Henry Street HS",
+            "Pringle Creek PS",
+            "Glen Dhu PS",
+            "Anderson CVI",
+            "Sir William Stephenson PS",
+            "Ormiston PS",
+            "ÉS Ronald-Marion",
+            "Julie Payette PS",
+            "É Élém Antonine Maillet",
+            "CE Broughton PS",
+            "Sinclair SS"
+          ],
+          "values": null
+        },
+        "catholic": {
+          "heading": "Catholic",
+          "items": [
+            "Father Leo J. Austin Catholic SS",
+            "St. Theresa Catholic School",
+            "St. Bernard Catholic School",
+            "St. Matthew the Evangelist Catholic School",
+            "ÉÉC Jean-Paul II",
+            "ÉSC Saint-Charles-Garnier"
+          ],
+          "values": null
+        },
+        "private": {
+          "heading": "Private",
+          "items": [
+            "Whitby Montessori & Elementary School"
+          ],
+          "values": null
+        },
+        "recreation_facilities_in_neighbourhood_parks": {
+          "heading": "Recreation Facilities in Neighbourhood Parks",
+          "items": [
+            "Playgrounds - 13",
+            "Pool - 1",
+            "Arena - 1",
+            "Rink - 1",
+            "Tennis Courts - 3",
+            "Basketball Courts - 10",
+            "Ball Diamonds - 5",
+            "Sports Fields - 7",
+            "Track - 1",
+            "Community Centre - 1",
+            "Splash Pads - 2",
+            "Sports Courts - 4",
+            "Trails - 2",
+            "Fitness/Weight Room - 1",
+            "Gym - 1"
+          ],
+          "values": {
+            "playgrounds": 13,
+            "pool": 1,
+            "arena": 1,
+            "rink": 1,
+            "tennis_courts": 3,
+            "basketball_courts": 10,
+            "ball_diamonds": 5,
+            "sports_fields": 7,
+            "track": 1,
+            "community_centre": 1,
+            "splash_pads": 2,
+            "sports_courts": 4,
+            "trails": 2,
+            "fitness_weight_room": 1,
+            "gym": 1
+          }
+        },
+        "commute_destination_for_residents": {
+          "heading": "Commute Destination for Residents",
+          "items": [
+            "Commute within the city - 28%",
+            "Commute to another city - 71%"
+          ],
+          "values": {
+            "commute_within_the_city": 28,
+            "commute_to_another_city": 71
+          }
+        },
+        "commute_types": {
+          "heading": "Commute Types",
+          "items": [
+            "Vehicle - 82%",
+            "Transit - 13%",
+            "Walk/bike - 3%"
+          ],
+          "values": {
+            "vehicle": 82,
+            "transit": 13,
+            "walk_bike": 3
+          }
+        },
+        "commute_times_of_residents": {
+          "heading": "Commute Times of Residents",
+          "items": [
+            "15 to 29 minutes - 26%",
+            "30 to 44 minutes - 13%",
+            "45 to 59 minutes - 11%",
+            "60 minutes and over - 25%",
+            "Less than 15 minutes - 22%"
+          ],
+          "values": {
+            "15_to_29_minutes": 26,
+            "30_to_44_minutes": 13,
+            "45_to_59_minutes": 11,
+            "60_minutes_and_over": 25,
+            "less_than_15_minutes": 22
+          }
+        },
+        "household_income": {
+          "heading": "Household Income",
+          "items": [
+            "Under $30,000 - 3%",
+            "$30,000 to $39,999 - 3%",
+            "$40,000 to $49,999 - 4%",
+            "$50,000 to $59,999 - 6%",
+            "$60,000 to $69,999 - 6%",
+            "$70,000 to $79,999 - 5%",
+            "$80,000 to $89,999 - 5%",
+            "$90,000 to $99,999 - 6%",
+            "$100,000 to $124,999 - 13%",
+            "$125,000 to $149,999 - 11%",
+            "$150,000 to $199,999 - 14%",
+            "$200,000 and over - 13%"
+          ],
+          "values": {
+            "under_30_000": 3,
+            "30_000_to_39_999": 3,
+            "40_000_to_49_999": 4,
+            "50_000_to_59_999": 6,
+            "60_000_to_69_999": 6,
+            "70_000_to_79_999": 5,
+            "80_000_to_89_999": 5,
+            "90_000_to_99_999": 6,
+            "100_000_to_124_999": 13,
+            "125_000_to_149_999": 11,
+            "150_000_to_199_999": 14,
+            "200_000_and_over": 13
+          }
+        },
+        "most_common_occupations_top_3": {
+          "heading": "Most Common Occupations (Top 3)",
+          "items": [
+            "Sales and service occupations - 22%",
+            "Business, finance and administration occupations - 17%",
+            "Occupations in education, law and social, community and government services - 14%"
+          ],
+          "values": {
+            "sales_and_service_occupations": 22,
+            "business_finance_and_administration_occupations": 17,
+            "occupations_in_education_law_and_social_community_and_government_services": 14
+          }
+        },
+        "most_common_industries_top_3": {
+          "heading": "Most Common Industries (Top 3)",
+          "items": [
+            "Retail trade - 12%",
+            "Health care and social assistance - 10%",
+            "Educational services - 9%"
+          ],
+          "values": {
+            "retail_trade": 12,
+            "health_care_and_social_assistance": 10,
+            "educational_services": 9
+          }
+        },
+        "employment": {
+          "heading": "Employment",
+          "items": [
+            "Employed - 64% of people over age 15 are employed",
+            "Unemployed - 5% are unemployed",
+            "Not in the labour force - 30% are retired, students, homemakers, etc."
+          ],
+          "values": null
+        },
+        "home_types": {
+          "heading": "Home Types",
+          "items": [
+            "Single-detached house - 61%",
+            "Semi-detached house - 3%",
+            "Duplex - 1%",
+            "Row house - 22%",
+            "Low-rise apartment/condo - 5%",
+            "High-rise apartment/condo - 6%"
+          ],
+          "values": {
+            "single_detached_house": 61,
+            "semi_detached_house": 3,
+            "duplex": 1,
+            "row_house": 22,
+            "low_rise_apartment_condo": 5,
+            "high_rise_apartment_condo": 6
+          }
+        },
+        "condominium_status": {
+          "heading": "Condominium Status",
+          "items": [
+            "Condominium - 16%",
+            "Not condominium - 83%"
+          ],
+          "values": {
+            "condominium": 16,
+            "not_condominium": 83
+          }
+        },
+        "number_of_bedrooms_in_homes": {
+          "heading": "Number of Bedrooms in Homes",
+          "items": [
+            "1 bedroom - 4%",
+            "2 bedrooms - 9%",
+            "3 bedrooms - 41%",
+            "No bedrooms - 0%",
+            "4 or more bedrooms - 44%"
+          ],
+          "values": {
+            "1_bedroom": 4,
+            "2_bedrooms": 9,
+            "3_bedrooms": 41,
+            "no_bedrooms": 0,
+            "4_or_more_bedrooms": 44
+          }
+        },
+        "period_of_home_construction": {
+          "heading": "Period of Home Construction",
+          "items": [
+            "1961 to 1980 - 12%",
+            "1981 to 1990 - 37%",
+            "1991 to 2000 - 24%",
+            "2001 to 2005 - 14%",
+            "2006 to 2010 - 8%",
+            "2011 to 2016 - 1%",
+            "1960 or before - 1%"
+          ],
+          "values": {
+            "1961_to_1980": 12,
+            "1981_to_1990": 37,
+            "1991_to_2000": 24,
+            "2001_to_2005": 14,
+            "2006_to_2010": 8,
+            "2011_to_2016": 1,
+            "1960_or_before": 1
+          }
+        },
+        "renters_and_owners": {
+          "heading": "Renters & Owners",
+          "items": [
+            "Owner - 88%",
+            "Renter - 11%"
+          ],
+          "values": {
+            "owner": 88,
+            "renter": 11
+          }
+        }
+      },
+      "section_summaries": {
+        "people": "Families with kids make up 56% of households in this neighbourhood, while couples without children make up 21% of households and 17% of households are one person living alone. People in this neighbourhood come from 125 different ethnic origins, and 25% are first-generation immigrants, while 27% are second-generation immigrants.",
+        "schools": "Pringle Creek has great elementary schools, great secondary schools, elementary special programs, and secondary special programs. There are 12 public schools, 6 Catholic schools, and 1 private school serving this neighbourhood. The special programs offered at local schools include Montessori, Advanced Placement, French Immersion, and International Baccalaureate.",
+        "parks": "Fun is easy to find at the many parks & rec facilities here. Parks in this neighbourhood feature playgrounds for kids, sports parks, and skating. There are 17 parks in this neighbourhood, with 53 recreational facilities in total. The average number of facilities per park is 3.",
+        "homes": "In this neighbourhood, there are mostly detached homes. This neighbourhood has a consistent population, with 28% of households having moved within the past 5 years and 8% having moved within the past year. It has a mix of older and newer homes and is mostly owner-occupied."
+      },
+      "popular_with": [
+        "families with teens, people in their 20s, people in their 40s, and people in their 50s",
+        "teens",
+        "kids",
+        "20s",
+        "40s",
+        "50s"
+      ],
+      "scraped_at": "2026-04-15T02:28:50.206Z"
+    },
+    {
+      "slug": "rolling-acres",
+      "city": "whitby-on",
+      "name": "Rolling Acres",
+      "description": "Neighbourhood Vibe A family-friendly neighbourhood with a diverse community and plenty of parklands and trails.",
+      "schools": {
+        "public": 8,
+        "catholic": 6,
+        "private": null,
+        "special_programs": null
+      },
+      "parks": {
+        "count": null,
+        "recreational_facilities": 38,
+        "avg_facilities_per_park": null
+      },
+      "transit": {
+        "stops": 72
+      },
+      "demographics": {
+        "families_with_kids_pct": 67,
+        "couples_no_kids_pct": 18,
+        "one_person_household_pct": null
+      },
+      "education": {
+        "bachelors_or_higher_pct": 31,
+        "any_postsecondary_pct": 68
+      },
+      "housing": {
+        "moved_within_5yr_pct": 30,
+        "moved_within_1yr_pct": 9
+      },
+      "homes": {
+        "summary": "In Rolling Acres, there are mostly detached homes. Rolling Acres has a consistent population, with 30% of households having moved within the past 5 years and 9% having moved within the past year. It has a mix of older and newer homes and is mostly owner-occupied.",
+        "home_types_pct": {
+          "single_detached_house": 81,
+          "semi_detached_house": 2,
+          "duplex": 1,
+          "row_house": 9,
+          "low_rise_apartment_condo": 0,
+          "high_rise_apartment_condo": 4
+        },
+        "condominium_status_pct": {
+          "condominium": 1,
+          "not_condominium": 98
+        },
+        "bedrooms_pct": {
+          "1_bedroom": 1,
+          "2_bedrooms": 7,
+          "3_bedrooms": 37,
+          "no_bedrooms": 0,
+          "4_or_more_bedrooms": 53
+        },
+        "construction_period_pct": {
+          "1961_to_1980": 2,
+          "1981_to_1990": 19,
+          "1991_to_2000": 43,
+          "2001_to_2005": 17,
+          "2006_to_2010": 14,
+          "2011_to_2016": 1,
+          "1960_or_before": 0
+        },
+        "tenure_pct": null,
+        "mostly_older_homes": null,
+        "mostly_renter_occupied": null
+      },
+      "sections": {
+        "household_size": {
+          "heading": "Household Size",
+          "items": [
+            "1 person - 9%",
+            "2 persons - 24%",
+            "3 persons - 22%",
+            "4 persons - 28%",
+            "5 or more persons - 16%"
+          ],
+          "values": {
+            "1_person": 9,
+            "2_persons": 24,
+            "3_persons": 22,
+            "4_persons": 28,
+            "5_or_more_persons": 16
+          }
+        },
+        "household_types": {
+          "heading": "Household Types",
+          "items": [
+            "One-person households - 9%",
+            "Non-family households - 1%",
+            "Families with children - 66%",
+            "Couples without children - 18%",
+            "Multiple families in household - 3%"
+          ],
+          "values": {
+            "one_person_households": 9,
+            "non_family_households": 1,
+            "families_with_children": 66,
+            "couples_without_children": 18,
+            "multiple_families_in_household": 3
+          }
+        },
+        "children_per_family": {
+          "heading": "Children Per Family",
+          "items": [
+            "1 child - 28%",
+            "2 children - 33%",
+            "3 or more children - 14%"
+          ],
+          "values": {
+            "1_child": 28,
+            "2_children": 33,
+            "3_or_more_children": 14
+          }
+        },
+        "broad_age_ranges": {
+          "heading": "Broad Age Ranges",
+          "items": [
+            "0 to 14 years - 20%",
+            "15 to 64 years - 70%",
+            "65 years and over - 8%"
+          ],
+          "values": {
+            "0_to_14_years": 20,
+            "15_to_64_years": 70,
+            "65_years_and_over": 8
+          }
+        },
+        "most_common_ethnic_origins": {
+          "heading": "Most Common Ethnic Origins",
+          "items": [
+            "English - 24%",
+            "Canadian - 23%",
+            "Scottish - 18%",
+            "Irish - 18%",
+            "German - 8%"
+          ],
+          "values": {
+            "english": 24,
+            "canadian": 23,
+            "scottish": 18,
+            "irish": 18,
+            "german": 8
+          }
+        },
+        "age_of_primary_household_maintainer": {
+          "heading": "Age of Primary Household Maintainer",
+          "items": [
+            "15 to 24 years - 0%",
+            "25 to 34 years - 8%",
+            "35 to 44 years - 22%",
+            "45 to 54 years - 32%",
+            "55 to 64 years - 21%",
+            "65 to 74 years - 10%",
+            "75 to 84 years - 2%",
+            "85 years and over - 1%"
+          ],
+          "values": {
+            "15_to_24_years": 0,
+            "25_to_34_years": 8,
+            "35_to_44_years": 22,
+            "45_to_54_years": 32,
+            "55_to_64_years": 21,
+            "65_to_74_years": 10,
+            "75_to_84_years": 2,
+            "85_years_and_over": 1
+          }
+        },
+        "specific_age_groups": {
+          "heading": "Specific Age Groups",
+          "items": [
+            "0 to 4 years - 5%",
+            "5 to 9 years - 6%",
+            "10 to 14 years - 8%",
+            "15 to 19 years - 8%",
+            "20 to 29 years - 11%",
+            "30 to 39 years - 10%",
+            "40 to 49 years - 15%",
+            "50 to 59 years - 15%",
+            "60 to 69 years - 7%",
+            "over 70 years - 3%"
+          ],
+          "values": {
+            "0_to_4_years": 5,
+            "5_to_9_years": 6,
+            "10_to_14_years": 8,
+            "15_to_19_years": 8,
+            "20_to_29_years": 11,
+            "30_to_39_years": 10,
+            "40_to_49_years": 15,
+            "50_to_59_years": 15,
+            "60_to_69_years": 7,
+            "over_70_years": 3
+          }
+        },
+        "public": {
+          "heading": "Public",
+          "items": [
+            "Fallingbrook PS",
+            "Sir Samuel Steele PS",
+            "Glen Dhu PS",
+            "ÉS Ronald-Marion",
+            "Julie Payette PS",
+            "É Élém Antonine Maillet",
+            "John Dryden PS",
+            "Sinclair SS"
+          ],
+          "values": null
+        },
+        "catholic": {
+          "heading": "Catholic",
+          "items": [
+            "St. Paul Catholic School",
+            "Father Leo J. Austin Catholic SS",
+            "St. Mark the Evangelist Catholic School",
+            "St. Bernard Catholic School",
+            "ÉÉC Jean-Paul II",
+            "ÉSC Saint-Charles-Garnier"
+          ],
+          "values": null
+        },
+        "recreation_facilities_in_neighbourhood_parks": {
+          "heading": "Recreation Facilities in Neighbourhood Parks",
+          "items": [
+            "Playgrounds - 10",
+            "Basketball Courts - 7",
+            "Ball Diamonds - 2",
+            "Sports Fields - 11",
+            "Splash Pad - 1",
+            "Sports Courts - 4",
+            "Trails - 3"
+          ],
+          "values": {
+            "playgrounds": 10,
+            "basketball_courts": 7,
+            "ball_diamonds": 2,
+            "sports_fields": 11,
+            "splash_pad": 1,
+            "sports_courts": 4,
+            "trails": 3
+          }
+        },
+        "commute_destination_for_residents": {
+          "heading": "Commute Destination for Residents",
+          "items": [
+            "Commute within the city - 26%",
+            "Commute to another city - 73%"
+          ],
+          "values": {
+            "commute_within_the_city": 26,
+            "commute_to_another_city": 73
+          }
+        },
+        "commute_types": {
+          "heading": "Commute Types",
+          "items": [
+            "Vehicle - 83%",
+            "Transit - 13%",
+            "Walk/bike - 1%"
+          ],
+          "values": {
+            "vehicle": 83,
+            "transit": 13,
+            "walk_bike": 1
+          }
+        },
+        "commute_times_of_residents": {
+          "heading": "Commute Times of Residents",
+          "items": [
+            "15 to 29 minutes - 24%",
+            "30 to 44 minutes - 13%",
+            "45 to 59 minutes - 11%",
+            "60 minutes and over - 27%",
+            "Less than 15 minutes - 23%"
+          ],
+          "values": {
+            "15_to_29_minutes": 24,
+            "30_to_44_minutes": 13,
+            "45_to_59_minutes": 11,
+            "60_minutes_and_over": 27,
+            "less_than_15_minutes": 23
+          }
+        },
+        "household_income": {
+          "heading": "Household Income",
+          "items": [
+            "Under $30,000 - 4%",
+            "$30,000 to $39,999 - 4%",
+            "$40,000 to $49,999 - 3%",
+            "$50,000 to $59,999 - 4%",
+            "$60,000 to $69,999 - 4%",
+            "$70,000 to $79,999 - 5%",
+            "$80,000 to $89,999 - 5%",
+            "$90,000 to $99,999 - 5%",
+            "$100,000 to $124,999 - 14%",
+            "$125,000 to $149,999 - 12%",
+            "$150,000 to $199,999 - 16%",
+            "$200,000 and over - 14%"
+          ],
+          "values": {
+            "under_30_000": 4,
+            "30_000_to_39_999": 4,
+            "40_000_to_49_999": 3,
+            "50_000_to_59_999": 4,
+            "60_000_to_69_999": 4,
+            "70_000_to_79_999": 5,
+            "80_000_to_89_999": 5,
+            "90_000_to_99_999": 5,
+            "100_000_to_124_999": 14,
+            "125_000_to_149_999": 12,
+            "150_000_to_199_999": 16,
+            "200_000_and_over": 14
+          }
+        },
+        "most_common_occupations_top_3": {
+          "heading": "Most Common Occupations (Top 3)",
+          "items": [
+            "Sales and service occupations - 24%",
+            "Business, finance and administration occupations - 17%",
+            "Occupations in education, law and social, community and government services - 12%"
+          ],
+          "values": {
+            "sales_and_service_occupations": 24,
+            "business_finance_and_administration_occupations": 17,
+            "occupations_in_education_law_and_social_community_and_government_services": 12
+          }
+        },
+        "most_common_industries_top_3": {
+          "heading": "Most Common Industries (Top 3)",
+          "items": [
+            "Retail trade - 13%",
+            "Health care and social assistance - 10%",
+            "Finance and insurance - 8%"
+          ],
+          "values": {
+            "retail_trade": 13,
+            "health_care_and_social_assistance": 10,
+            "finance_and_insurance": 8
+          }
+        },
+        "employment": {
+          "heading": "Employment",
+          "items": [
+            "Employed - 65% of people over age 15 are employed",
+            "Unemployed - 5% are unemployed",
+            "Not in the labour force - 28% are retired, students, homemakers, etc."
+          ],
+          "values": null
+        },
+        "home_types": {
+          "heading": "Home Types",
+          "items": [
+            "Single-detached house - 81%",
+            "Semi-detached house - 2%",
+            "Duplex - 1%",
+            "Row house - 9%",
+            "Low-rise apartment/condo - 0%",
+            "High-rise apartment/condo - 4%"
+          ],
+          "values": {
+            "single_detached_house": 81,
+            "semi_detached_house": 2,
+            "duplex": 1,
+            "row_house": 9,
+            "low_rise_apartment_condo": 0,
+            "high_rise_apartment_condo": 4
+          }
+        },
+        "condominium_status": {
+          "heading": "Condominium Status",
+          "items": [
+            "Condominium - 1%",
+            "Not condominium - 98%"
+          ],
+          "values": {
+            "condominium": 1,
+            "not_condominium": 98
+          }
+        },
+        "number_of_bedrooms_in_homes": {
+          "heading": "Number of Bedrooms in Homes",
+          "items": [
+            "1 bedroom - 1%",
+            "2 bedrooms - 7%",
+            "3 bedrooms - 37%",
+            "No bedrooms - 0%",
+            "4 or more bedrooms - 53%"
+          ],
+          "values": {
+            "1_bedroom": 1,
+            "2_bedrooms": 7,
+            "3_bedrooms": 37,
+            "no_bedrooms": 0,
+            "4_or_more_bedrooms": 53
+          }
+        },
+        "period_of_home_construction": {
+          "heading": "Period of Home Construction",
+          "items": [
+            "1961 to 1980 - 2%",
+            "1981 to 1990 - 19%",
+            "1991 to 2000 - 43%",
+            "2001 to 2005 - 17%",
+            "2006 to 2010 - 14%",
+            "2011 to 2016 - 1%",
+            "1960 or before - 0%"
+          ],
+          "values": {
+            "1961_to_1980": 2,
+            "1981_to_1990": 19,
+            "1991_to_2000": 43,
+            "2001_to_2005": 17,
+            "2006_to_2010": 14,
+            "2011_to_2016": 1,
+            "1960_or_before": 0
+          }
+        },
+        "renters_and_owners": {
+          "heading": "Renters & Owners",
+          "items": [
+            "Owner - 87%",
+            "Renter - 11%"
+          ],
+          "values": {
+            "owner": 87,
+            "renter": 11
+          }
+        }
+      },
+      "section_summaries": {
+        "people": "Families with kids make up 67% of households in this neighbourhood, while couples without children make up 18% of households and 10% of households are one person living alone. People in this neighbourhood come from 121 different ethnic origins, and 30% are first-generation immigrants, while 28% are second-generation immigrants.",
+        "schools": "This neighbourhood has great elementary schools, great secondary schools, elementary special programs, and secondary special programs. There are 8 public schools and 6 Catholic schools serving Rolling Acres. The special programs offered at local schools include French Immersion, Advanced Placement, and International Baccalaureate.",
+        "parks": "Fun is easy to find at the many parks & rec facilities here. Parks in this neighbourhood feature playgrounds for kids and sports parks. There are 10 parks in Rolling Acres, with 38 recreational facilities in total. The average number of facilities per park is 3.",
+        "homes": "In Rolling Acres, there are mostly detached homes. Rolling Acres has a consistent population, with 30% of households having moved within the past 5 years and 9% having moved within the past year. It has a mix of older and newer homes and is mostly owner-occupied."
+      },
+      "popular_with": [
+        "families with teens, people in their 20s, people in their 40s, and people in their 50s",
+        "teens",
+        "kids",
+        "20s",
+        "40s",
+        "50s"
+      ],
+      "scraped_at": "2026-04-15T02:28:51.196Z"
+    },
+    {
+      "slug": "rural-whitby",
+      "city": "whitby-on",
+      "name": "Rural Whitby",
+      "description": "Neighbourhood Vibe A peaceful and family-friendly rural neighbourhood with a close-knit community.",
+      "schools": {
+        "public": 14,
+        "catholic": 10,
+        "private": null,
+        "special_programs": null
+      },
+      "parks": {
+        "count": 9,
+        "recreational_facilities": 18,
+        "avg_facilities_per_park": null
+      },
+      "transit": {
+        "stops": 641
+      },
+      "demographics": {
+        "families_with_kids_pct": 49,
+        "couples_no_kids_pct": 24,
+        "one_person_household_pct": null
+      },
+      "education": {
+        "bachelors_or_higher_pct": 26,
+        "any_postsecondary_pct": 61
+      },
+      "housing": {
+        "moved_within_5yr_pct": 39,
+        "moved_within_1yr_pct": 11
+      },
+      "homes": {
+        "summary": "In Rural Whitby, there are a mix of home types. Rural Whitby has a consistent population, with 39% of households having moved within the past 5 years and 11% having moved within the past year. It has a mix of older and newer homes and is mostly owner-occupied.",
+        "home_types_pct": {
+          "single_detached_house": 56,
+          "semi_detached_house": 2,
+          "duplex": 1,
+          "row_house": 4,
+          "low_rise_apartment_condo": 1,
+          "high_rise_apartment_condo": 33
+        },
+        "condominium_status_pct": {
+          "condominium": 16,
+          "not_condominium": 83
+        },
+        "bedrooms_pct": {
+          "1_bedroom": 6,
+          "2_bedrooms": 26,
+          "3_bedrooms": 36,
+          "no_bedrooms": 0,
+          "4_or_more_bedrooms": 30
+        },
+        "construction_period_pct": {
+          "1961_to_1980": 34,
+          "1981_to_1990": 10,
+          "1991_to_2000": 8,
+          "2001_to_2005": 15,
+          "2006_to_2010": 12,
+          "2011_to_2016": 5,
+          "1960_or_before": 9
+        },
+        "tenure_pct": null,
+        "mostly_older_homes": null,
+        "mostly_renter_occupied": null
+      },
+      "sections": {
+        "household_size": {
+          "heading": "Household Size",
+          "items": [
+            "1 person - 21%",
+            "2 persons - 30%",
+            "3 persons - 16%",
+            "4 persons - 17%",
+            "5 or more persons - 13%"
+          ],
+          "values": {
+            "1_person": 21,
+            "2_persons": 30,
+            "3_persons": 16,
+            "4_persons": 17,
+            "5_or_more_persons": 13
+          }
+        },
+        "household_types": {
+          "heading": "Household Types",
+          "items": [
+            "One-person households - 21%",
+            "Non-family households - 2%",
+            "Families with children - 48%",
+            "Couples without children - 23%",
+            "Multiple families in household - 3%"
+          ],
+          "values": {
+            "one_person_households": 21,
+            "non_family_households": 2,
+            "families_with_children": 48,
+            "couples_without_children": 23,
+            "multiple_families_in_household": 3
+          }
+        },
+        "children_per_family": {
+          "heading": "Children Per Family",
+          "items": [
+            "1 child - 26%",
+            "2 children - 26%",
+            "3 or more children - 12%"
+          ],
+          "values": {
+            "1_child": 26,
+            "2_children": 26,
+            "3_or_more_children": 12
+          }
+        },
+        "broad_age_ranges": {
+          "heading": "Broad Age Ranges",
+          "items": [
+            "0 to 14 years - 18%",
+            "15 to 64 years - 66%",
+            "65 years and over - 14%"
+          ],
+          "values": {
+            "0_to_14_years": 18,
+            "15_to_64_years": 66,
+            "65_years_and_over": 14
+          }
+        },
+        "most_common_ethnic_origins": {
+          "heading": "Most Common Ethnic Origins",
+          "items": [
+            "Canadian - 25%",
+            "English - 24%",
+            "Irish - 17%",
+            "Scottish - 16%",
+            "Italian - 7%"
+          ],
+          "values": {
+            "canadian": 25,
+            "english": 24,
+            "irish": 17,
+            "scottish": 16,
+            "italian": 7
+          }
+        },
+        "age_of_primary_household_maintainer": {
+          "heading": "Age of Primary Household Maintainer",
+          "items": [
+            "15 to 24 years - 1%",
+            "25 to 34 years - 9%",
+            "35 to 44 years - 20%",
+            "45 to 54 years - 24%",
+            "55 to 64 years - 19%",
+            "65 to 74 years - 13%",
+            "75 to 84 years - 9%",
+            "85 years and over - 1%"
+          ],
+          "values": {
+            "15_to_24_years": 1,
+            "25_to_34_years": 9,
+            "35_to_44_years": 20,
+            "45_to_54_years": 24,
+            "55_to_64_years": 19,
+            "65_to_74_years": 13,
+            "75_to_84_years": 9,
+            "85_years_and_over": 1
+          }
+        },
+        "specific_age_groups": {
+          "heading": "Specific Age Groups",
+          "items": [
+            "0 to 4 years - 5%",
+            "5 to 9 years - 6%",
+            "10 to 14 years - 6%",
+            "15 to 19 years - 6%",
+            "20 to 29 years - 11%",
+            "30 to 39 years - 11%",
+            "40 to 49 years - 14%",
+            "50 to 59 years - 15%",
+            "60 to 69 years - 9%",
+            "over 70 years - 8%"
+          ],
+          "values": {
+            "0_to_4_years": 5,
+            "5_to_9_years": 6,
+            "10_to_14_years": 6,
+            "15_to_19_years": 6,
+            "20_to_29_years": 11,
+            "30_to_39_years": 11,
+            "40_to_49_years": 14,
+            "50_to_59_years": 15,
+            "60_to_69_years": 9,
+            "over_70_years": 8
+          }
+        },
+        "public": {
+          "heading": "Public",
+          "items": [
+            "Brooklin HS",
+            "Henry Street HS",
+            "Robert Munsch PS",
+            "West Lynde PS",
+            "Brooklin Village PS",
+            "Sir William Stephenson PS",
+            "Donald A. Wilson SS",
+            "Meadowcrest PS",
+            "Dr. Robert Thornton PS",
+            "ÉS Ronald-Marion",
+            "Julie Payette PS",
+            "É Élém Antonine Maillet",
+            "Willows Walk PS",
+            "Sinclair SS"
+          ],
+          "values": null
+        },
+        "catholic": {
+          "heading": "Catholic",
+          "items": [
+            "Monsignor Paul Dwyer Catholic HS",
+            "St. Luke the Evangelist Catholic School",
+            "St. Marguerite d'Youville Catholic School",
+            "St. Leo Catholic School",
+            "St. John Paul II Catholic School",
+            "St. Bridget Catholic School",
+            "St. John the Evangelist Catholic School",
+            "All Saints Catholic SS",
+            "ÉÉC Jean-Paul II",
+            "ÉSC Saint-Charles-Garnier"
+          ],
+          "values": null
+        },
+        "recreation_facilities_in_neighbourhood_parks": {
+          "heading": "Recreation Facilities in Neighbourhood Parks",
+          "items": [
+            "Playgrounds - 3",
+            "Dog Parks - 2",
+            "Basketball Courts - 2",
+            "Ball Diamond - 1",
+            "Sports Field - 1",
+            "Community Centre - 1",
+            "Golf Course - 1",
+            "Trails - 7"
+          ],
+          "values": {
+            "playgrounds": 3,
+            "dog_parks": 2,
+            "basketball_courts": 2,
+            "ball_diamond": 1,
+            "sports_field": 1,
+            "community_centre": 1,
+            "golf_course": 1,
+            "trails": 7
+          }
+        },
+        "commute_destination_for_residents": {
+          "heading": "Commute Destination for Residents",
+          "items": [
+            "Commute within the city - 22%",
+            "Commute to another city - 77%"
+          ],
+          "values": {
+            "commute_within_the_city": 22,
+            "commute_to_another_city": 77
+          }
+        },
+        "commute_types": {
+          "heading": "Commute Types",
+          "items": [
+            "Vehicle - 82%",
+            "Transit - 14%",
+            "Walk/bike - 2%"
+          ],
+          "values": {
+            "vehicle": 82,
+            "transit": 14,
+            "walk_bike": 2
+          }
+        },
+        "commute_times_of_residents": {
+          "heading": "Commute Times of Residents",
+          "items": [
+            "15 to 29 minutes - 27%",
+            "30 to 44 minutes - 18%",
+            "45 to 59 minutes - 12%",
+            "60 minutes and over - 23%",
+            "Less than 15 minutes - 17%"
+          ],
+          "values": {
+            "15_to_29_minutes": 27,
+            "30_to_44_minutes": 18,
+            "45_to_59_minutes": 12,
+            "60_minutes_and_over": 23,
+            "less_than_15_minutes": 17
+          }
+        },
+        "household_income": {
+          "heading": "Household Income",
+          "items": [
+            "Under $30,000 - 9%",
+            "$30,000 to $39,999 - 6%",
+            "$40,000 to $49,999 - 6%",
+            "$50,000 to $59,999 - 7%",
+            "$60,000 to $69,999 - 7%",
+            "$70,000 to $79,999 - 5%",
+            "$80,000 to $89,999 - 6%",
+            "$90,000 to $99,999 - 5%",
+            "$100,000 to $124,999 - 10%",
+            "$125,000 to $149,999 - 8%",
+            "$150,000 to $199,999 - 10%",
+            "$200,000 and over - 12%"
+          ],
+          "values": {
+            "under_30_000": 9,
+            "30_000_to_39_999": 6,
+            "40_000_to_49_999": 6,
+            "50_000_to_59_999": 7,
+            "60_000_to_69_999": 7,
+            "70_000_to_79_999": 5,
+            "80_000_to_89_999": 6,
+            "90_000_to_99_999": 5,
+            "100_000_to_124_999": 10,
+            "125_000_to_149_999": 8,
+            "150_000_to_199_999": 10,
+            "200_000_and_over": 12
+          }
+        },
+        "most_common_occupations_top_3": {
+          "heading": "Most Common Occupations (Top 3)",
+          "items": [
+            "Sales and service occupations - 23%",
+            "Business, finance and administration occupations - 17%",
+            "Trades, transport and equipment operators and related occupations - 16%"
+          ],
+          "values": {
+            "sales_and_service_occupations": 23,
+            "business_finance_and_administration_occupations": 17,
+            "trades_transport_and_equipment_operators_and_related_occupations": 16
+          }
+        },
+        "most_common_industries_top_3": {
+          "heading": "Most Common Industries (Top 3)",
+          "items": [
+            "Retail trade - 10%",
+            "Professional, scientific and technical services - 8%",
+            "Health care and social assistance - 8%"
+          ],
+          "values": {
+            "retail_trade": 10,
+            "professional_scientific_and_technical_services": 8,
+            "health_care_and_social_assistance": 8
+          }
+        },
+        "employment": {
+          "heading": "Employment",
+          "items": [
+            "Employed - 57% of people over age 15 are employed",
+            "Unemployed - 5% are unemployed",
+            "Not in the labour force - 37% are retired, students, homemakers, etc."
+          ],
+          "values": null
+        },
+        "home_types": {
+          "heading": "Home Types",
+          "items": [
+            "Single-detached house - 56%",
+            "Semi-detached house - 2%",
+            "Duplex - 1%",
+            "Row house - 4%",
+            "Low-rise apartment/condo - 1%",
+            "High-rise apartment/condo - 33%"
+          ],
+          "values": {
+            "single_detached_house": 56,
+            "semi_detached_house": 2,
+            "duplex": 1,
+            "row_house": 4,
+            "low_rise_apartment_condo": 1,
+            "high_rise_apartment_condo": 33
+          }
+        },
+        "condominium_status": {
+          "heading": "Condominium Status",
+          "items": [
+            "Condominium - 16%",
+            "Not condominium - 83%"
+          ],
+          "values": {
+            "condominium": 16,
+            "not_condominium": 83
+          }
+        },
+        "number_of_bedrooms_in_homes": {
+          "heading": "Number of Bedrooms in Homes",
+          "items": [
+            "1 bedroom - 6%",
+            "2 bedrooms - 26%",
+            "3 bedrooms - 36%",
+            "No bedrooms - 0%",
+            "4 or more bedrooms - 30%"
+          ],
+          "values": {
+            "1_bedroom": 6,
+            "2_bedrooms": 26,
+            "3_bedrooms": 36,
+            "no_bedrooms": 0,
+            "4_or_more_bedrooms": 30
+          }
+        },
+        "period_of_home_construction": {
+          "heading": "Period of Home Construction",
+          "items": [
+            "1961 to 1980 - 34%",
+            "1981 to 1990 - 10%",
+            "1991 to 2000 - 8%",
+            "2001 to 2005 - 15%",
+            "2006 to 2010 - 12%",
+            "2011 to 2016 - 5%",
+            "1960 or before - 9%"
+          ],
+          "values": {
+            "1961_to_1980": 34,
+            "1981_to_1990": 10,
+            "1991_to_2000": 8,
+            "2001_to_2005": 15,
+            "2006_to_2010": 12,
+            "2011_to_2016": 5,
+            "1960_or_before": 9
+          }
+        },
+        "renters_and_owners": {
+          "heading": "Renters & Owners",
+          "items": [
+            "Owner - 72%",
+            "Renter - 27%"
+          ],
+          "values": {
+            "owner": 72,
+            "renter": 27
+          }
+        }
+      },
+      "section_summaries": {
+        "people": "Families with kids make up 49% of households in Rural Whitby, while couples without children make up 24% of households and 21% of households are one person living alone. People in this neighbourhood come from 106 different ethnic origins, and 30% are first-generation immigrants, while 27% are second-generation immigrants.",
+        "schools": "This neighbourhood has great elementary schools, great secondary schools, elementary special programs, and secondary special programs. There are 14 public schools and 10 Catholic schools serving Rural Whitby. The special programs offered at local schools include French Immersion, Advanced Placement, and International Baccalaureate.",
+        "parks": "Fun is easy to find at the many parks & rec facilities here. Parks in Rural Whitby feature playgrounds for kids and dog parks. There are 9 parks in this neighbourhood, with 18 recreational facilities in total. The average number of facilities per park is 2.",
+        "homes": "In Rural Whitby, there are a mix of home types. Rural Whitby has a consistent population, with 39% of households having moved within the past 5 years and 11% having moved within the past year. It has a mix of older and newer homes and is mostly owner-occupied."
+      },
+      "popular_with": [
+        "families with kids under 5, families with kids aged 5 to 9, families with teens, people in their 40s, and people in their 50s",
+        "kids",
+        "teens",
+        "40s",
+        "50s"
+      ],
+      "scraped_at": "2026-04-15T02:28:52.070Z"
+    },
+    {
+      "slug": "taunton-north",
+      "city": "whitby-on",
+      "name": "Taunton North",
+      "description": "Neighbourhood Vibe A growing neighbourhood with a mix of housing options and ongoing development.",
+      "schools": {
+        "public": 9,
+        "catholic": 9,
+        "private": null,
+        "special_programs": null
+      },
+      "parks": {
+        "count": 7,
+        "recreational_facilities": 26,
+        "avg_facilities_per_park": null
+      },
+      "transit": {
+        "stops": 79
+      },
+      "demographics": {
+        "families_with_kids_pct": 64,
+        "couples_no_kids_pct": 20,
+        "one_person_household_pct": null
+      },
+      "education": {
+        "bachelors_or_higher_pct": 38,
+        "any_postsecondary_pct": 76
+      },
+      "housing": {
+        "moved_within_5yr_pct": 43,
+        "moved_within_1yr_pct": 11
+      },
+      "homes": {
+        "summary": "In this neighbourhood, there are mostly detached homes. Taunton North has a consistent population, with 43% of households having moved within the past 5 years and 11% having moved within the past year. It has mostly newer homes and is mostly owner-occupied.",
+        "home_types_pct": {
+          "single_detached_house": 76,
+          "semi_detached_house": 3,
+          "duplex": 0,
+          "row_house": 18,
+          "low_rise_apartment_condo": 0,
+          "high_rise_apartment_condo": 0
+        },
+        "condominium_status_pct": {
+          "condominium": 5,
+          "not_condominium": 94
+        },
+        "bedrooms_pct": {
+          "1_bedroom": 0,
+          "2_bedrooms": 4,
+          "3_bedrooms": 47,
+          "no_bedrooms": 0,
+          "4_or_more_bedrooms": 47
+        },
+        "construction_period_pct": {
+          "1961_to_1980": 2,
+          "1981_to_1990": 0,
+          "1991_to_2000": 4,
+          "2001_to_2005": 45,
+          "2006_to_2010": 24,
+          "2011_to_2016": 20,
+          "1960_or_before": 1
+        },
+        "tenure_pct": null,
+        "mostly_older_homes": null,
+        "mostly_renter_occupied": null
+      },
+      "sections": {
+        "household_size": {
+          "heading": "Household Size",
+          "items": [
+            "1 person - 10%",
+            "2 persons - 24%",
+            "3 persons - 20%",
+            "4 persons - 26%",
+            "5 or more persons - 17%"
+          ],
+          "values": {
+            "1_person": 10,
+            "2_persons": 24,
+            "3_persons": 20,
+            "4_persons": 26,
+            "5_or_more_persons": 17
+          }
+        },
+        "household_types": {
+          "heading": "Household Types",
+          "items": [
+            "One-person households - 10%",
+            "Non-family households - 1%",
+            "Families with children - 64%",
+            "Couples without children - 20%",
+            "Multiple families in household - 3%"
+          ],
+          "values": {
+            "one_person_households": 10,
+            "non_family_households": 1,
+            "families_with_children": 64,
+            "couples_without_children": 20,
+            "multiple_families_in_household": 3
+          }
+        },
+        "children_per_family": {
+          "heading": "Children Per Family",
+          "items": [
+            "1 child - 25%",
+            "2 children - 35%",
+            "3 or more children - 13%"
+          ],
+          "values": {
+            "1_child": 25,
+            "2_children": 35,
+            "3_or_more_children": 13
+          }
+        },
+        "broad_age_ranges": {
+          "heading": "Broad Age Ranges",
+          "items": [
+            "0 to 14 years - 25%",
+            "15 to 64 years - 66%",
+            "65 years and over - 8%"
+          ],
+          "values": {
+            "0_to_14_years": 25,
+            "15_to_64_years": 66,
+            "65_years_and_over": 8
+          }
+        },
+        "most_common_ethnic_origins": {
+          "heading": "Most Common Ethnic Origins",
+          "items": [
+            "Canadian - 20%",
+            "English - 19%",
+            "Scottish - 15%",
+            "Irish - 14%",
+            "Italian - 8%"
+          ],
+          "values": {
+            "canadian": 20,
+            "english": 19,
+            "scottish": 15,
+            "irish": 14,
+            "italian": 8
+          }
+        },
+        "age_of_primary_household_maintainer": {
+          "heading": "Age of Primary Household Maintainer",
+          "items": [
+            "15 to 24 years - 1%",
+            "25 to 34 years - 13%",
+            "35 to 44 years - 27%",
+            "45 to 54 years - 29%",
+            "55 to 64 years - 13%",
+            "65 to 74 years - 8%",
+            "75 to 84 years - 4%",
+            "85 years and over - 0%"
+          ],
+          "values": {
+            "15_to_24_years": 1,
+            "25_to_34_years": 13,
+            "35_to_44_years": 27,
+            "45_to_54_years": 29,
+            "55_to_64_years": 13,
+            "65_to_74_years": 8,
+            "75_to_84_years": 4,
+            "85_years_and_over": 0
+          }
+        },
+        "specific_age_groups": {
+          "heading": "Specific Age Groups",
+          "items": [
+            "0 to 4 years - 7%",
+            "5 to 9 years - 9%",
+            "10 to 14 years - 8%",
+            "15 to 19 years - 6%",
+            "20 to 29 years - 9%",
+            "30 to 39 years - 15%",
+            "40 to 49 years - 17%",
+            "50 to 59 years - 10%",
+            "60 to 69 years - 6%",
+            "over 70 years - 3%"
+          ],
+          "values": {
+            "0_to_4_years": 7,
+            "5_to_9_years": 9,
+            "10_to_14_years": 8,
+            "15_to_19_years": 6,
+            "20_to_29_years": 9,
+            "30_to_39_years": 15,
+            "40_to_49_years": 17,
+            "50_to_59_years": 10,
+            "60_to_69_years": 6,
+            "over_70_years": 3
+          }
+        },
+        "public": {
+          "heading": "Public",
+          "items": [
+            "Brooklin HS",
+            "Robert Munsch PS",
+            "Sir Samuel Steele PS",
+            "Brooklin Village PS",
+            "Meadowcrest PS",
+            "ÉS Ronald-Marion",
+            "É Élém Antonine Maillet",
+            "Willows Walk PS",
+            "Sinclair SS"
+          ],
+          "values": null
+        },
+        "catholic": {
+          "heading": "Catholic",
+          "items": [
+            "Father Leo J. Austin Catholic SS",
+            "St. Leo Catholic School",
+            "St. John Paul II Catholic School",
+            "St. Bernard Catholic School",
+            "St. Matthew the Evangelist Catholic School",
+            "St. Bridget Catholic School",
+            "All Saints Catholic SS",
+            "ÉÉC Jean-Paul II",
+            "ÉSC Saint-Charles-Garnier"
+          ],
+          "values": null
+        },
+        "recreation_facilities_in_neighbourhood_parks": {
+          "heading": "Recreation Facilities in Neighbourhood Parks",
+          "items": [
+            "Playgrounds - 7",
+            "Arena - 1",
+            "Rinks - 3",
+            "Tennis Courts - 4",
+            "Basketball Courts - 3",
+            "Ball Diamond - 1",
+            "Sports Field - 1",
+            "Splash Pads - 3",
+            "Skateboard Parks - 2",
+            "Sports Court - 1"
+          ],
+          "values": {
+            "playgrounds": 7,
+            "arena": 1,
+            "rinks": 3,
+            "tennis_courts": 4,
+            "basketball_courts": 3,
+            "ball_diamond": 1,
+            "sports_field": 1,
+            "splash_pads": 3,
+            "skateboard_parks": 2,
+            "sports_court": 1
+          }
+        },
+        "commute_destination_for_residents": {
+          "heading": "Commute Destination for Residents",
+          "items": [
+            "Commute within the city - 21%",
+            "Commute to another city - 78%"
+          ],
+          "values": {
+            "commute_within_the_city": 21,
+            "commute_to_another_city": 78
+          }
+        },
+        "commute_types": {
+          "heading": "Commute Types",
+          "items": [
+            "Vehicle - 83%",
+            "Transit - 13%",
+            "Walk/bike - 1%"
+          ],
+          "values": {
+            "vehicle": 83,
+            "transit": 13,
+            "walk_bike": 1
+          }
+        },
+        "commute_times_of_residents": {
+          "heading": "Commute Times of Residents",
+          "items": [
+            "15 to 29 minutes - 23%",
+            "30 to 44 minutes - 16%",
+            "45 to 59 minutes - 15%",
+            "60 minutes and over - 29%",
+            "Less than 15 minutes - 15%"
+          ],
+          "values": {
+            "15_to_29_minutes": 23,
+            "30_to_44_minutes": 16,
+            "45_to_59_minutes": 15,
+            "60_minutes_and_over": 29,
+            "less_than_15_minutes": 15
+          }
+        },
+        "household_income": {
+          "heading": "Household Income",
+          "items": [
+            "Under $30,000 - 1%",
+            "$30,000 to $39,999 - 2%",
+            "$40,000 to $49,999 - 4%",
+            "$50,000 to $59,999 - 5%",
+            "$60,000 to $69,999 - 5%",
+            "$70,000 to $79,999 - 5%",
+            "$80,000 to $89,999 - 5%",
+            "$90,000 to $99,999 - 7%",
+            "$100,000 to $124,999 - 14%",
+            "$125,000 to $149,999 - 12%",
+            "$150,000 to $199,999 - 17%",
+            "$200,000 and over - 12%"
+          ],
+          "values": {
+            "under_30_000": 1,
+            "30_000_to_39_999": 2,
+            "40_000_to_49_999": 4,
+            "50_000_to_59_999": 5,
+            "60_000_to_69_999": 5,
+            "70_000_to_79_999": 5,
+            "80_000_to_89_999": 5,
+            "90_000_to_99_999": 7,
+            "100_000_to_124_999": 14,
+            "125_000_to_149_999": 12,
+            "150_000_to_199_999": 17,
+            "200_000_and_over": 12
+          }
+        },
+        "most_common_occupations_top_3": {
+          "heading": "Most Common Occupations (Top 3)",
+          "items": [
+            "Sales and service occupations - 22%",
+            "Business, finance and administration occupations - 18%",
+            "Management occupations - 14%"
+          ],
+          "values": {
+            "sales_and_service_occupations": 22,
+            "business_finance_and_administration_occupations": 18,
+            "management_occupations": 14
+          }
+        },
+        "most_common_industries_top_3": {
+          "heading": "Most Common Industries (Top 3)",
+          "items": [
+            "Retail trade - 12%",
+            "Health care and social assistance - 11%",
+            "Professional, scientific and technical services - 7%"
+          ],
+          "values": {
+            "retail_trade": 12,
+            "health_care_and_social_assistance": 11,
+            "professional_scientific_and_technical_services": 7
+          }
+        },
+        "employment": {
+          "heading": "Employment",
+          "items": [
+            "Employed - 67% of people over age 15 are employed",
+            "Unemployed - 5% are unemployed",
+            "Not in the labour force - 27% are retired, students, homemakers, etc."
+          ],
+          "values": null
+        },
+        "home_types": {
+          "heading": "Home Types",
+          "items": [
+            "Single-detached house - 76%",
+            "Semi-detached house - 3%",
+            "Duplex - 0%",
+            "Row house - 18%",
+            "Low-rise apartment/condo - 0%",
+            "High-rise apartment/condo - 0%"
+          ],
+          "values": {
+            "single_detached_house": 76,
+            "semi_detached_house": 3,
+            "duplex": 0,
+            "row_house": 18,
+            "low_rise_apartment_condo": 0,
+            "high_rise_apartment_condo": 0
+          }
+        },
+        "condominium_status": {
+          "heading": "Condominium Status",
+          "items": [
+            "Condominium - 5%",
+            "Not condominium - 94%"
+          ],
+          "values": {
+            "condominium": 5,
+            "not_condominium": 94
+          }
+        },
+        "number_of_bedrooms_in_homes": {
+          "heading": "Number of Bedrooms in Homes",
+          "items": [
+            "1 bedroom - 0%",
+            "2 bedrooms - 4%",
+            "3 bedrooms - 47%",
+            "No bedrooms - 0%",
+            "4 or more bedrooms - 47%"
+          ],
+          "values": {
+            "1_bedroom": 0,
+            "2_bedrooms": 4,
+            "3_bedrooms": 47,
+            "no_bedrooms": 0,
+            "4_or_more_bedrooms": 47
+          }
+        },
+        "period_of_home_construction": {
+          "heading": "Period of Home Construction",
+          "items": [
+            "1961 to 1980 - 2%",
+            "1981 to 1990 - 0%",
+            "1991 to 2000 - 4%",
+            "2001 to 2005 - 45%",
+            "2006 to 2010 - 24%",
+            "2011 to 2016 - 20%",
+            "1960 or before - 1%"
+          ],
+          "values": {
+            "1961_to_1980": 2,
+            "1981_to_1990": 0,
+            "1991_to_2000": 4,
+            "2001_to_2005": 45,
+            "2006_to_2010": 24,
+            "2011_to_2016": 20,
+            "1960_or_before": 1
+          }
+        },
+        "renters_and_owners": {
+          "heading": "Renters & Owners",
+          "items": [
+            "Owner - 92%",
+            "Renter - 6%"
+          ],
+          "values": {
+            "owner": 92,
+            "renter": 6
+          }
+        }
+      },
+      "section_summaries": {
+        "people": "Families with kids make up 64% of households in this neighbourhood, while couples without children make up 20% of households and 10% of households are one person living alone. People in Taunton North come from 105 different ethnic origins, and 35% are first-generation immigrants, while 30% are second-generation immigrants.",
+        "schools": "This neighbourhood has great elementary schools, great secondary schools, elementary special programs, and secondary special programs. There are 9 public schools and 9 Catholic schools serving Taunton North. The special programs offered at local schools include French Immersion, Advanced Placement, and International Baccalaureate.",
+        "parks": "Fun is easy to find at the many parks & rec facilities here. Parks in this neighbourhood feature playgrounds for kids, sports parks, and skating. There are 7 parks in this neighbourhood, with 26 recreational facilities in total. The average number of facilities per park is 3.",
+        "homes": "In this neighbourhood, there are mostly detached homes. Taunton North has a consistent population, with 43% of households having moved within the past 5 years and 11% having moved within the past year. It has mostly newer homes and is mostly owner-occupied."
+      },
+      "popular_with": [
+        "families with kids under 5, families with kids aged 5 to 9, families with teens, people in their 30s, and people in their 40s",
+        "kids",
+        "teens",
+        "30s",
+        "40s"
+      ],
+      "scraped_at": "2026-04-15T02:28:52.739Z"
+    },
+    {
+      "slug": "whitby-industrial",
+      "city": "whitby-on",
+      "name": "Whitby Industrial",
+      "description": "Neighbourhood Vibe A mix of industrial and parkland, with small residential pockets.",
+      "schools": {
+        "public": 7,
+        "catholic": 7,
+        "private": 1,
+        "special_programs": null
+      },
+      "parks": {
+        "count": 5,
+        "recreational_facilities": 6,
+        "avg_facilities_per_park": null
+      },
+      "transit": {
+        "stops": 77
+      },
+      "demographics": {
+        "families_with_kids_pct": 53,
+        "couples_no_kids_pct": 21,
+        "one_person_household_pct": null
+      },
+      "education": {
+        "bachelors_or_higher_pct": 27,
+        "any_postsecondary_pct": 67
+      },
+      "housing": {
+        "moved_within_5yr_pct": 45,
+        "moved_within_1yr_pct": 12
+      },
+      "homes": {
+        "summary": "In Whitby Industrial, there are a mix of home types. This neighbourhood has a consistent population, with 45% of households having moved within the past 5 years and 12% having moved within the past year. It has a mix of older and newer homes and is mostly owner-occupied.",
+        "home_types_pct": {
+          "single_detached_house": 50,
+          "semi_detached_house": 4,
+          "duplex": 1,
+          "row_house": 27,
+          "low_rise_apartment_condo": 14,
+          "high_rise_apartment_condo": 0
+        },
+        "condominium_status_pct": {
+          "condominium": 5,
+          "not_condominium": 94
+        },
+        "bedrooms_pct": {
+          "1_bedroom": 5,
+          "2_bedrooms": 14,
+          "3_bedrooms": 50,
+          "no_bedrooms": 0,
+          "4_or_more_bedrooms": 28
+        },
+        "construction_period_pct": {
+          "1961_to_1980": 21,
+          "1981_to_1990": 13,
+          "1991_to_2000": 5,
+          "2001_to_2005": 15,
+          "2006_to_2010": 19,
+          "2011_to_2016": 15,
+          "1960_or_before": 9
+        },
+        "tenure_pct": null,
+        "mostly_older_homes": null,
+        "mostly_renter_occupied": null
+      },
+      "sections": {
+        "household_size": {
+          "heading": "Household Size",
+          "items": [
+            "1 person - 20%",
+            "2 persons - 28%",
+            "3 persons - 17%",
+            "4 persons - 20%",
+            "5 or more persons - 12%"
+          ],
+          "values": {
+            "1_person": 20,
+            "2_persons": 28,
+            "3_persons": 17,
+            "4_persons": 20,
+            "5_or_more_persons": 12
+          }
+        },
+        "household_types": {
+          "heading": "Household Types",
+          "items": [
+            "One-person households - 20%",
+            "Non-family households - 3%",
+            "Families with children - 52%",
+            "Couples without children - 20%",
+            "Multiple families in household - 3%"
+          ],
+          "values": {
+            "one_person_households": 20,
+            "non_family_households": 3,
+            "families_with_children": 52,
+            "couples_without_children": 20,
+            "multiple_families_in_household": 3
+          }
+        },
+        "children_per_family": {
+          "heading": "Children Per Family",
+          "items": [
+            "1 child - 31%",
+            "2 children - 28%",
+            "3 or more children - 12%"
+          ],
+          "values": {
+            "1_child": 31,
+            "2_children": 28,
+            "3_or_more_children": 12
+          }
+        },
+        "broad_age_ranges": {
+          "heading": "Broad Age Ranges",
+          "items": [
+            "0 to 14 years - 20%",
+            "15 to 64 years - 70%",
+            "65 years and over - 9%"
+          ],
+          "values": {
+            "0_to_14_years": 20,
+            "15_to_64_years": 70,
+            "65_years_and_over": 9
+          }
+        },
+        "most_common_ethnic_origins": {
+          "heading": "Most Common Ethnic Origins",
+          "items": [
+            "Canadian - 28%",
+            "English - 26%",
+            "Irish - 20%",
+            "Scottish - 18%",
+            "German - 8%"
+          ],
+          "values": {
+            "canadian": 28,
+            "english": 26,
+            "irish": 20,
+            "scottish": 18,
+            "german": 8
+          }
+        },
+        "age_of_primary_household_maintainer": {
+          "heading": "Age of Primary Household Maintainer",
+          "items": [
+            "15 to 24 years - 1%",
+            "25 to 34 years - 15%",
+            "35 to 44 years - 25%",
+            "45 to 54 years - 22%",
+            "55 to 64 years - 21%",
+            "65 to 74 years - 9%",
+            "75 to 84 years - 1%",
+            "85 years and over - 1%"
+          ],
+          "values": {
+            "15_to_24_years": 1,
+            "25_to_34_years": 15,
+            "35_to_44_years": 25,
+            "45_to_54_years": 22,
+            "55_to_64_years": 21,
+            "65_to_74_years": 9,
+            "75_to_84_years": 1,
+            "85_years_and_over": 1
+          }
+        },
+        "specific_age_groups": {
+          "heading": "Specific Age Groups",
+          "items": [
+            "0 to 4 years - 7%",
+            "5 to 9 years - 7%",
+            "10 to 14 years - 5%",
+            "15 to 19 years - 5%",
+            "20 to 29 years - 11%",
+            "30 to 39 years - 17%",
+            "40 to 49 years - 15%",
+            "50 to 59 years - 12%",
+            "60 to 69 years - 7%",
+            "over 70 years - 3%"
+          ],
+          "values": {
+            "0_to_4_years": 7,
+            "5_to_9_years": 7,
+            "10_to_14_years": 5,
+            "15_to_19_years": 5,
+            "20_to_29_years": 11,
+            "30_to_39_years": 17,
+            "40_to_49_years": 15,
+            "50_to_59_years": 12,
+            "60_to_69_years": 7,
+            "over_70_years": 3
+          }
+        },
+        "public": {
+          "heading": "Public",
+          "items": [
+            "Henry Street HS",
+            "Bellwood PS",
+            "Julie Payette PS",
+            "ÉS Ronald-Marion",
+            "É Élém Antonine Maillet",
+            "Anderson CVI",
+            "Sir William Stephenson PS"
+          ],
+          "values": null
+        },
+        "catholic": {
+          "heading": "Catholic",
+          "items": [
+            "St. Theresa Catholic School",
+            "Father Leo J. Austin Catholic SS",
+            "St. Paul Catholic School",
+            "ÉÉC Jean-Paul II",
+            "ÉSC Saint-Charles-Garnier",
+            "St. Marguerite d'Youville Catholic School",
+            "All Saints Catholic SS"
+          ],
+          "values": null
+        },
+        "private": {
+          "heading": "Private",
+          "items": [
+            "Kendalwood Montessori & Elementary School"
+          ],
+          "values": null
+        },
+        "alternative_special": {
+          "heading": "Alternative/Special",
+          "items": [
+            "Father Donald MacLellan Catholic SS"
+          ],
+          "values": null
+        },
+        "recreation_facilities_in_neighbourhood_parks": {
+          "heading": "Recreation Facilities in Neighbourhood Parks",
+          "items": [
+            "Sports Fields - 2",
+            "Trails - 4"
+          ],
+          "values": {
+            "sports_fields": 2,
+            "trails": 4
+          }
+        },
+        "commute_destination_for_residents": {
+          "heading": "Commute Destination for Residents",
+          "items": [
+            "Commute within the city - 22%",
+            "Commute to another city - 77%"
+          ],
+          "values": {
+            "commute_within_the_city": 22,
+            "commute_to_another_city": 77
+          }
+        },
+        "commute_types": {
+          "heading": "Commute Types",
+          "items": [
+            "Vehicle - 78%",
+            "Transit - 18%",
+            "Walk/bike - 2%"
+          ],
+          "values": {
+            "vehicle": 78,
+            "transit": 18,
+            "walk_bike": 2
+          }
+        },
+        "commute_times_of_residents": {
+          "heading": "Commute Times of Residents",
+          "items": [
+            "15 to 29 minutes - 26%",
+            "30 to 44 minutes - 13%",
+            "45 to 59 minutes - 12%",
+            "60 minutes and over - 27%",
+            "Less than 15 minutes - 19%"
+          ],
+          "values": {
+            "15_to_29_minutes": 26,
+            "30_to_44_minutes": 13,
+            "45_to_59_minutes": 12,
+            "60_minutes_and_over": 27,
+            "less_than_15_minutes": 19
+          }
+        },
+        "household_income": {
+          "heading": "Household Income",
+          "items": [
+            "Under $30,000 - 7%",
+            "$30,000 to $39,999 - 6%",
+            "$40,000 to $49,999 - 5%",
+            "$50,000 to $59,999 - 7%",
+            "$60,000 to $69,999 - 5%",
+            "$70,000 to $79,999 - 7%",
+            "$80,000 to $89,999 - 5%",
+            "$90,000 to $99,999 - 5%",
+            "$100,000 to $124,999 - 15%",
+            "$125,000 to $149,999 - 11%",
+            "$150,000 to $199,999 - 12%",
+            "$200,000 and over - 7%"
+          ],
+          "values": {
+            "under_30_000": 7,
+            "30_000_to_39_999": 6,
+            "40_000_to_49_999": 5,
+            "50_000_to_59_999": 7,
+            "60_000_to_69_999": 5,
+            "70_000_to_79_999": 7,
+            "80_000_to_89_999": 5,
+            "90_000_to_99_999": 5,
+            "100_000_to_124_999": 15,
+            "125_000_to_149_999": 11,
+            "150_000_to_199_999": 12,
+            "200_000_and_over": 7
+          }
+        },
+        "most_common_occupations_top_3": {
+          "heading": "Most Common Occupations (Top 3)",
+          "items": [
+            "Sales and service occupations - 22%",
+            "Business, finance and administration occupations - 17%",
+            "Occupations in education, law and social, community and government services - 13%"
+          ],
+          "values": {
+            "sales_and_service_occupations": 22,
+            "business_finance_and_administration_occupations": 17,
+            "occupations_in_education_law_and_social_community_and_government_services": 13
+          }
+        },
+        "most_common_industries_top_3": {
+          "heading": "Most Common Industries (Top 3)",
+          "items": [
+            "Retail trade - 10%",
+            "Professional, scientific and technical services - 9%",
+            "Health care and social assistance - 9%"
+          ],
+          "values": {
+            "retail_trade": 10,
+            "professional_scientific_and_technical_services": 9,
+            "health_care_and_social_assistance": 9
+          }
+        },
+        "employment": {
+          "heading": "Employment",
+          "items": [
+            "Employed - 69% of people over age 15 are employed",
+            "Unemployed - 5% are unemployed",
+            "Not in the labour force - 25% are retired, students, homemakers, etc."
+          ],
+          "values": null
+        },
+        "home_types": {
+          "heading": "Home Types",
+          "items": [
+            "Single-detached house - 50%",
+            "Semi-detached house - 4%",
+            "Duplex - 1%",
+            "Row house - 27%",
+            "Low-rise apartment/condo - 14%",
+            "High-rise apartment/condo - 0%"
+          ],
+          "values": {
+            "single_detached_house": 50,
+            "semi_detached_house": 4,
+            "duplex": 1,
+            "row_house": 27,
+            "low_rise_apartment_condo": 14,
+            "high_rise_apartment_condo": 0
+          }
+        },
+        "condominium_status": {
+          "heading": "Condominium Status",
+          "items": [
+            "Condominium - 5%",
+            "Not condominium - 94%"
+          ],
+          "values": {
+            "condominium": 5,
+            "not_condominium": 94
+          }
+        },
+        "number_of_bedrooms_in_homes": {
+          "heading": "Number of Bedrooms in Homes",
+          "items": [
+            "1 bedroom - 5%",
+            "2 bedrooms - 14%",
+            "3 bedrooms - 50%",
+            "No bedrooms - 0%",
+            "4 or more bedrooms - 28%"
+          ],
+          "values": {
+            "1_bedroom": 5,
+            "2_bedrooms": 14,
+            "3_bedrooms": 50,
+            "no_bedrooms": 0,
+            "4_or_more_bedrooms": 28
+          }
+        },
+        "period_of_home_construction": {
+          "heading": "Period of Home Construction",
+          "items": [
+            "1961 to 1980 - 21%",
+            "1981 to 1990 - 13%",
+            "1991 to 2000 - 5%",
+            "2001 to 2005 - 15%",
+            "2006 to 2010 - 19%",
+            "2011 to 2016 - 15%",
+            "1960 or before - 9%"
+          ],
+          "values": {
+            "1961_to_1980": 21,
+            "1981_to_1990": 13,
+            "1991_to_2000": 5,
+            "2001_to_2005": 15,
+            "2006_to_2010": 19,
+            "2011_to_2016": 15,
+            "1960_or_before": 9
+          }
+        },
+        "renters_and_owners": {
+          "heading": "Renters & Owners",
+          "items": [
+            "Owner - 75%",
+            "Renter - 24%"
+          ],
+          "values": {
+            "owner": 75,
+            "renter": 24
+          }
+        }
+      },
+      "section_summaries": {
+        "people": "Families with kids make up 53% of households in Whitby Industrial, while couples without children make up 21% of households and 21% of households are one person living alone. People in Whitby Industrial come from 79 different ethnic origins, and 28% are first-generation immigrants, while 26% are second-generation immigrants.",
+        "schools": "Whitby Industrial has great elementary schools, great secondary schools, elementary special programs, and secondary special programs. There are 7 public schools, 7 Catholic schools, 1 private school, and 1 alternative/special school serving Whitby Industrial. The special programs offered at local schools include Montessori, French Immersion, Advanced Placement, and International Baccalaureate.",
+        "parks": "Fun is easy to find at the parks here. There are 5 parks in this neighbourhood, with 6 recreational facilities in total. The average number of facilities per park is 1.",
+        "homes": "In Whitby Industrial, there are a mix of home types. This neighbourhood has a consistent population, with 45% of households having moved within the past 5 years and 12% having moved within the past year. It has a mix of older and newer homes and is mostly owner-occupied."
+      },
+      "popular_with": [
+        "families with kids under 5, families with kids aged 5 to 9, people in their 30s, people in their 40s, and people in their 50s",
+        "kids",
+        "30s",
+        "40s",
+        "50s"
+      ],
+      "scraped_at": "2026-04-15T02:28:53.741Z"
+    },
+    {
+      "slug": "williamsburg",
+      "city": "whitby-on",
+      "name": "Williamsburg",
+      "description": "Neighbourhood Vibe A family-friendly neighbourhood with tree-lined streets, parks, and a close-knit community.",
+      "schools": {
+        "public": 7,
+        "catholic": 5,
+        "private": null,
+        "special_programs": null
+      },
+      "parks": {
+        "count": null,
+        "recreational_facilities": 36,
+        "avg_facilities_per_park": null
+      },
+      "transit": {
+        "stops": 81
+      },
+      "demographics": {
+        "families_with_kids_pct": 63,
+        "couples_no_kids_pct": 19,
+        "one_person_household_pct": null
+      },
+      "education": {
+        "bachelors_or_higher_pct": 33,
+        "any_postsecondary_pct": 72
+      },
+      "housing": {
+        "moved_within_5yr_pct": 31,
+        "moved_within_1yr_pct": 9
+      },
+      "homes": {
+        "summary": "In this neighbourhood, there are mostly detached homes. This neighbourhood has a consistent population, with 31% of households having moved within the past 5 years and 9% having moved within the past year. It has a mix of older and newer homes and is mostly owner-occupied.",
+        "home_types_pct": {
+          "single_detached_house": 76,
+          "semi_detached_house": 2,
+          "duplex": 1,
+          "row_house": 18,
+          "low_rise_apartment_condo": 0,
+          "high_rise_apartment_condo": 1
+        },
+        "condominium_status_pct": {
+          "condominium": 2,
+          "not_condominium": 96
+        },
+        "bedrooms_pct": {
+          "1_bedroom": 2,
+          "2_bedrooms": 4,
+          "3_bedrooms": 42,
+          "no_bedrooms": 0,
+          "4_or_more_bedrooms": 50
+        },
+        "construction_period_pct": {
+          "1961_to_1980": 5,
+          "1981_to_1990": 13,
+          "1991_to_2000": 31,
+          "2001_to_2005": 34,
+          "2006_to_2010": 8,
+          "2011_to_2016": 3,
+          "1960_or_before": 5
+        },
+        "tenure_pct": null,
+        "mostly_older_homes": null,
+        "mostly_renter_occupied": null
+      },
+      "sections": {
+        "household_size": {
+          "heading": "Household Size",
+          "items": [
+            "1 person - 12%",
+            "2 persons - 24%",
+            "3 persons - 18%",
+            "4 persons - 28%",
+            "5 or more persons - 16%"
+          ],
+          "values": {
+            "1_person": 12,
+            "2_persons": 24,
+            "3_persons": 18,
+            "4_persons": 28,
+            "5_or_more_persons": 16
+          }
+        },
+        "household_types": {
+          "heading": "Household Types",
+          "items": [
+            "One-person households - 12%",
+            "Non-family households - 1%",
+            "Families with children - 63%",
+            "Couples without children - 19%",
+            "Multiple families in household - 3%"
+          ],
+          "values": {
+            "one_person_households": 12,
+            "non_family_households": 1,
+            "families_with_children": 63,
+            "couples_without_children": 19,
+            "multiple_families_in_household": 3
+          }
+        },
+        "children_per_family": {
+          "heading": "Children Per Family",
+          "items": [
+            "1 child - 25%",
+            "2 children - 36%",
+            "3 or more children - 14%"
+          ],
+          "values": {
+            "1_child": 25,
+            "2_children": 36,
+            "3_or_more_children": 14
+          }
+        },
+        "broad_age_ranges": {
+          "heading": "Broad Age Ranges",
+          "items": [
+            "0 to 14 years - 21%",
+            "15 to 64 years - 66%",
+            "65 years and over - 12%"
+          ],
+          "values": {
+            "0_to_14_years": 21,
+            "15_to_64_years": 66,
+            "65_years_and_over": 12
+          }
+        },
+        "most_common_ethnic_origins": {
+          "heading": "Most Common Ethnic Origins",
+          "items": [
+            "Canadian - 26%",
+            "English - 23%",
+            "Scottish - 20%",
+            "Irish - 18%",
+            "Italian - 8%"
+          ],
+          "values": {
+            "canadian": 26,
+            "english": 23,
+            "scottish": 20,
+            "irish": 18,
+            "italian": 8
+          }
+        },
+        "age_of_primary_household_maintainer": {
+          "heading": "Age of Primary Household Maintainer",
+          "items": [
+            "15 to 24 years - 0%",
+            "25 to 34 years - 9%",
+            "35 to 44 years - 22%",
+            "45 to 54 years - 32%",
+            "55 to 64 years - 18%",
+            "65 to 74 years - 9%",
+            "75 to 84 years - 4%",
+            "85 years and over - 1%"
+          ],
+          "values": {
+            "15_to_24_years": 0,
+            "25_to_34_years": 9,
+            "35_to_44_years": 22,
+            "45_to_54_years": 32,
+            "55_to_64_years": 18,
+            "65_to_74_years": 9,
+            "75_to_84_years": 4,
+            "85_years_and_over": 1
+          }
+        },
+        "specific_age_groups": {
+          "heading": "Specific Age Groups",
+          "items": [
+            "0 to 4 years - 5%",
+            "5 to 9 years - 7%",
+            "10 to 14 years - 8%",
+            "15 to 19 years - 8%",
+            "20 to 29 years - 10%",
+            "30 to 39 years - 10%",
+            "40 to 49 years - 17%",
+            "50 to 59 years - 13%",
+            "60 to 69 years - 7%",
+            "over 70 years - 5%"
+          ],
+          "values": {
+            "0_to_4_years": 5,
+            "5_to_9_years": 7,
+            "10_to_14_years": 8,
+            "15_to_19_years": 8,
+            "20_to_29_years": 10,
+            "30_to_39_years": 10,
+            "40_to_49_years": 17,
+            "50_to_59_years": 13,
+            "60_to_69_years": 7,
+            "over_70_years": 5
+          }
+        },
+        "public": {
+          "heading": "Public",
+          "items": [
+            "Jack Miner PS",
+            "Captain Michael VandenBos PS",
+            "Donald A. Wilson SS",
+            "ÉS Ronald-Marion",
+            "Julie Payette PS",
+            "É Élém Antonine Maillet",
+            "Williamsburg PS"
+          ],
+          "values": null
+        },
+        "catholic": {
+          "heading": "Catholic",
+          "items": [
+            "St. Luke the Evangelist Catholic School",
+            "St. John the Evangelist Catholic School",
+            "All Saints Catholic SS",
+            "ÉÉC Jean-Paul II",
+            "ÉSC Saint-Charles-Garnier"
+          ],
+          "values": null
+        },
+        "recreation_facilities_in_neighbourhood_parks": {
+          "heading": "Recreation Facilities in Neighbourhood Parks",
+          "items": [
+            "Playgrounds - 7",
+            "Tennis Courts - 2",
+            "Basketball Courts - 6",
+            "Ball Diamonds - 4",
+            "Sports Fields - 10",
+            "Splash Pads - 2",
+            "Sports Courts - 2",
+            "Trails - 3"
+          ],
+          "values": {
+            "playgrounds": 7,
+            "tennis_courts": 2,
+            "basketball_courts": 6,
+            "ball_diamonds": 4,
+            "sports_fields": 10,
+            "splash_pads": 2,
+            "sports_courts": 2,
+            "trails": 3
+          }
+        },
+        "commute_destination_for_residents": {
+          "heading": "Commute Destination for Residents",
+          "items": [
+            "Commute within the city - 24%",
+            "Commute to another city - 75%"
+          ],
+          "values": {
+            "commute_within_the_city": 24,
+            "commute_to_another_city": 75
+          }
+        },
+        "commute_types": {
+          "heading": "Commute Types",
+          "items": [
+            "Vehicle - 82%",
+            "Transit - 13%",
+            "Walk/bike - 1%"
+          ],
+          "values": {
+            "vehicle": 82,
+            "transit": 13,
+            "walk_bike": 1
+          }
+        },
+        "commute_times_of_residents": {
+          "heading": "Commute Times of Residents",
+          "items": [
+            "15 to 29 minutes - 28%",
+            "30 to 44 minutes - 15%",
+            "45 to 59 minutes - 13%",
+            "60 minutes and over - 25%",
+            "Less than 15 minutes - 16%"
+          ],
+          "values": {
+            "15_to_29_minutes": 28,
+            "30_to_44_minutes": 15,
+            "45_to_59_minutes": 13,
+            "60_minutes_and_over": 25,
+            "less_than_15_minutes": 16
+          }
+        },
+        "household_income": {
+          "heading": "Household Income",
+          "items": [
+            "Under $30,000 - 3%",
+            "$30,000 to $39,999 - 3%",
+            "$40,000 to $49,999 - 4%",
+            "$50,000 to $59,999 - 4%",
+            "$60,000 to $69,999 - 5%",
+            "$70,000 to $79,999 - 6%",
+            "$80,000 to $89,999 - 5%",
+            "$90,000 to $99,999 - 6%",
+            "$100,000 to $124,999 - 14%",
+            "$125,000 to $149,999 - 11%",
+            "$150,000 to $199,999 - 16%",
+            "$200,000 and over - 16%"
+          ],
+          "values": {
+            "under_30_000": 3,
+            "30_000_to_39_999": 3,
+            "40_000_to_49_999": 4,
+            "50_000_to_59_999": 4,
+            "60_000_to_69_999": 5,
+            "70_000_to_79_999": 6,
+            "80_000_to_89_999": 5,
+            "90_000_to_99_999": 6,
+            "100_000_to_124_999": 14,
+            "125_000_to_149_999": 11,
+            "150_000_to_199_999": 16,
+            "200_000_and_over": 16
+          }
+        },
+        "most_common_occupations_top_3": {
+          "heading": "Most Common Occupations (Top 3)",
+          "items": [
+            "Sales and service occupations - 22%",
+            "Business, finance and administration occupations - 17%",
+            "Management occupations - 14%"
+          ],
+          "values": {
+            "sales_and_service_occupations": 22,
+            "business_finance_and_administration_occupations": 17,
+            "management_occupations": 14
+          }
+        },
+        "most_common_industries_top_3": {
+          "heading": "Most Common Industries (Top 3)",
+          "items": [
+            "Retail trade - 11%",
+            "Health care and social assistance - 10%",
+            "Finance and insurance - 9%"
+          ],
+          "values": {
+            "retail_trade": 11,
+            "health_care_and_social_assistance": 10,
+            "finance_and_insurance": 9
+          }
+        },
+        "employment": {
+          "heading": "Employment",
+          "items": [
+            "Employed - 66% of people over age 15 are employed",
+            "Unemployed - 5% are unemployed",
+            "Not in the labour force - 27% are retired, students, homemakers, etc."
+          ],
+          "values": null
+        },
+        "home_types": {
+          "heading": "Home Types",
+          "items": [
+            "Single-detached house - 76%",
+            "Semi-detached house - 2%",
+            "Duplex - 1%",
+            "Row house - 18%",
+            "Low-rise apartment/condo - 0%",
+            "High-rise apartment/condo - 1%"
+          ],
+          "values": {
+            "single_detached_house": 76,
+            "semi_detached_house": 2,
+            "duplex": 1,
+            "row_house": 18,
+            "low_rise_apartment_condo": 0,
+            "high_rise_apartment_condo": 1
+          }
+        },
+        "condominium_status": {
+          "heading": "Condominium Status",
+          "items": [
+            "Condominium - 2%",
+            "Not condominium - 96%"
+          ],
+          "values": {
+            "condominium": 2,
+            "not_condominium": 96
+          }
+        },
+        "number_of_bedrooms_in_homes": {
+          "heading": "Number of Bedrooms in Homes",
+          "items": [
+            "1 bedroom - 2%",
+            "2 bedrooms - 4%",
+            "3 bedrooms - 42%",
+            "No bedrooms - 0%",
+            "4 or more bedrooms - 50%"
+          ],
+          "values": {
+            "1_bedroom": 2,
+            "2_bedrooms": 4,
+            "3_bedrooms": 42,
+            "no_bedrooms": 0,
+            "4_or_more_bedrooms": 50
+          }
+        },
+        "period_of_home_construction": {
+          "heading": "Period of Home Construction",
+          "items": [
+            "1961 to 1980 - 5%",
+            "1981 to 1990 - 13%",
+            "1991 to 2000 - 31%",
+            "2001 to 2005 - 34%",
+            "2006 to 2010 - 8%",
+            "2011 to 2016 - 3%",
+            "1960 or before - 5%"
+          ],
+          "values": {
+            "1961_to_1980": 5,
+            "1981_to_1990": 13,
+            "1991_to_2000": 31,
+            "2001_to_2005": 34,
+            "2006_to_2010": 8,
+            "2011_to_2016": 3,
+            "1960_or_before": 5
+          }
+        },
+        "renters_and_owners": {
+          "heading": "Renters & Owners",
+          "items": [
+            "Owner - 91%",
+            "Renter - 8%"
+          ],
+          "values": {
+            "owner": 91,
+            "renter": 8
+          }
+        }
+      },
+      "section_summaries": {
+        "people": "Families with kids make up 63% of households in this neighbourhood, while couples without children make up 19% of households and 12% of households are one person living alone. People in this neighbourhood come from 116 different ethnic origins, and 28% are first-generation immigrants, while 29% are second-generation immigrants.",
+        "schools": "This neighbourhood has great elementary schools, great secondary schools, elementary special programs, and secondary special programs. There are 7 public schools and 5 Catholic schools serving Williamsburg. The special programs offered at local schools include Gifted/Talented Program, French Immersion, Advanced Placement, and International Baccalaureate.",
+        "parks": "Fun is easy to find at the many parks & rec facilities here. Parks in this neighbourhood feature playgrounds for kids and sports parks. There are 10 parks in Williamsburg, with 36 recreational facilities in total. The average number of facilities per park is 3.",
+        "homes": "In this neighbourhood, there are mostly detached homes. This neighbourhood has a consistent population, with 31% of households having moved within the past 5 years and 9% having moved within the past year. It has a mix of older and newer homes and is mostly owner-occupied."
+      },
+      "popular_with": [
+        "families with kids under 5, families with kids aged 5 to 9, families with teens, people in their 40s, and people in their 50s",
+        "kids",
+        "teens",
+        "40s",
+        "50s"
+      ],
+      "scraped_at": "2026-04-15T02:28:54.517Z"
+    }
+  ]
+}
